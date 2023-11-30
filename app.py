@@ -9,6 +9,6 @@ query="total number of employees"
 cmd,fin=run_q(query)
 # wrap the string data in StringIO function
 if type(cmd) is int:
-    print(type(cmd))
+    print(cmd)
 else:
-    print(cmd.columns)
+    print(cmd)
