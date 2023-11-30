@@ -11,7 +11,7 @@ from langchain.callbacks.manager import a  # debug get observation directly
 
 # Keys for OpenAI's API
 
-key = "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"
+key = "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"
 os.environ["OPENAI_API_KEY"] = key
 
 
@@ -48,7 +48,7 @@ cmd_out={cmd}
 
 
 def run_q(query: str):
-    agent = csv_to_df(OpenAI(temperature=0),
+    agent = csv_to_df(OpenAI(temperature=0,model='gpt-3.5-turbo-instruct'),
                       'uni.csv',
                       verbose=True)
 
