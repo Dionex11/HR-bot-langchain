@@ -1,0 +1,1001 @@
+﻿id,first name,last name,phone number,age,experience,email,role,skill,location
+1,Rajat,Kamal,8818599461,29,3,rajatkamal@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,ci/cd pipelines",mumbai
+2,Mahesh,Dinesh,9837057761,32,9,maheshdinesh@gmail.com,data scientist,"python,reactjs,data mining",mangalore
+3,Manish,Prakash,6551758822,34,10,manishprakash@gmail.com,hr,"communication skills, administrative expertise, hr management knowledge and expertise",chennai
+4,Amit,Neeraj,6167393389,29,3,amitneeraj@gmail.com,devops engineer,"linux , administrative expertise,dbms",mangalore
+5,Shubham,Shruti,6802025305,25,0,shubhamshruti@gmail.com,data scientist,"python,node.js,java/python",delhi
+6,Ananya,Rohan,6738823449,33,10,ananyarohan@gmail.com,blockchain engineer,"cryptography, data structures,ai/ml",bangalore
+7,Gaurav,Mohan,6930926848,32,9,gauravmohan@gmail.com,iot solutions architect,"api automation and testing ,reactjs,ci/cd pipelines",calcutta
+8,Alka,Priyanka,6356332381,33,10,alkapriyanka@gmail.com,security analyst," network security control,data analysis and visualization,algorithms and frameworks",mumbai
+9,Amit,Naresh,6834252561,32,9,amitnaresh@gmail.com,frontend developer,"html/css,operating systems,java/python",mangalore
+10,Vandana,Manish,6160081265,27,4,vandanamanish@gmail.com,frontend developer,"html/css,python, hr management knowledge and expertise",jaipur
+11,Akshara,John,9241649562,32,9,aksharajohn@gmail.com,cyber security,"scripting,controls and frameworks ,algorithms and frameworks",hyderabad
+12,Sunil,Tanisha,6725240098,34,3,suniltanisha@gmail.com,data scientist,"python, administrative expertise,javascript",mumbai
+13,Nisha,Mukesh,6959476194,26,3,nishamukesh@gmail.com,data scientist,"python, data structures, hr management knowledge and expertise",mumbai
+14,Alka,Alice,8249027263,25,0,alkaalice@gmail.com,security analyst," network security control,data analysis and visualization,dbms",bangalore
+15,Aanya,Suresh,8759020771,34,3,aanyasuresh@gmail.com,iot solutions architect,"api automation and testing ,big data,java/python",bangalore
+16,Kayla,Harsh,8117595562,26,3,kaylaharsh@gmail.com,hr,"communication skills,python,algorithms and frameworks",jaipur
+17,Sunil,Kirti,8792427007,34,10,sunilkirti@gmail.com,iot solutions architect,"api automation and testing ,big data,algorithms and frameworks",hyderabad
+18,Shivangi,Ritu,6572187088,24,1,shivangiritu@gmail.com,cyber security,"scripting,reactjs, hr management knowledge and expertise",chennai
+19,Neeraj,Arjun,9780591556,25,0,neerajarjun@gmail.com,hr,"communication skills,flask,algorithms and frameworks",gujarat
+20,Mohan,Lori,9593872476,30,3,mohanlori@gmail.com,data scientist,"python,data analysis and visualization,cloud",gujarat
+21,Kayla,Manish,6179853318,35,3,kaylamanish@gmail.com,ai/ml architect,"machine learning expertise,operating systems,java/python",kochi
+22,Mohan,Riya,6969511115,26,0,mohanriya@gmail.com,hr,"communication skills,data analysis and visualization,javascript",delhi
+23,Shubham,Ananya,8157581769,31,3,shubhamananya@gmail.com,security analyst," network security control,reactjs, hr management knowledge and expertise",calcutta
+24,Abhinav,Dinesh,6181570934,34,10,abhinavdinesh@gmail.com,devops engineer,"linux ,operating systems,java/python",gujarat
+25,Deepak,Renu,8395053957,27,4,deepakrenu@gmail.com,ai/ml architect,"machine learning expertise,flask,ci/cd pipelines",hyderabad
+26,Rakesh,Sanjay,9916169217,30,3,rakeshsanjay@gmail.com,data scientist,"python,python,ci/cd pipelines",mumbai
+27,Sanjana,Reena,6559670493,34,3,sanjanareena@gmail.com,iot solutions architect,"api automation and testing ,node.js,cloud",calcutta
+28,Riyaan,Rinku,9839724339,29,6,riyaanrinku@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise, hr management knowledge and expertise",chennai
+29,Prakash,Kavita,6663370158,31,8,prakashkavita@gmail.com,cyber security,"scripting,operating systems,c/javascript/python",jaipur
+30,Priyanka,Prakash,6538265792,25,2,priyankaprakash@gmail.com,data scientist,"python,data analysis and visualization, hr management knowledge and expertise",mumbai
+31,Mukesh,Russell,6198956136,26,3,mukeshrussell@gmail.com,iot solutions architect,"api automation and testing ,operating systems,java/python",delhi
+32,Rajat,Vijay,9629745846,32,3,rajatvijay@gmail.com,hr,"communication skills, data structures,intrusion detection",bangalore
+33,Shivangi,Roshni,8137106726,25,2,shivangiroshni@gmail.com,cyber security,"scripting,data analysis and visualization,javascript",mumbai
+34,Ravi,Raju,6720312516,34,3,raviraju@gmail.com,frontend developer,"html/css,dbms,data mining",mumbai
+35,Bob,Kamal,9567859316,31,8,bobkamal@gmail.com,cloud architect,"operating systems,controls and frameworks ,javascript",jaipur
+36,Amit,Shubham,8315431494,33,10,amitshubham@gmail.com,cloud architect,"operating systems, data structures,java/python",hyderabad
+37,Bobby,John,9437148457,26,3,bobbyjohn@gmail.com,ai/ml architect,"machine learning expertise,node.js,javascript",kochi
+38,Riya,Ralph,6872200379,27,4,riyaralph@gmail.com,cloud architect,"operating systems, data structures,cloud",mangalore
+39,Neetu,Aarav,9320746650,24,1,neetuaarav@gmail.com,data scientist,"python,data analysis and visualization, hr management knowledge and expertise",bangalore
+40,Sumit,Ashish,9691640950,32,3,sumitashish@gmail.com,frontend developer,"html/css,flask, hr management knowledge and expertise",hyderabad
+41,Mahesh,Mohan,8297779799,25,0,maheshmohan@gmail.com,ai/ml architect,"machine learning expertise,operating systems, hr management knowledge and expertise",chennai
+42,Riyaan,Mohan,6894215008,32,3,riyaanmohan@gmail.com,blockchain engineer,"cryptography,flask,ai/ml",chennai
+43,Vivek,Manish,6849597707,25,2,vivekmanish@gmail.com,data scientist,"python,operating systems,data mining",chennai
+44,Shilpa,Vandana,8659168812,29,6,shilpavandana@gmail.com,blockchain engineer,"cryptography, data structures,ci/cd pipelines",calcutta
+45,Pranav,Ajay,6311228649,31,3,pranavajay@gmail.com,cyber security,"scripting,reactjs, hr management knowledge and expertise",calcutta
+46,Harsh,Kavita,8651500709,32,3,harshkavita@gmail.com,hr,"communication skills,dbms,intrusion detection",gujarat
+47,Kajal,Ritu,6254298819,27,1,kajalritu@gmail.com,security analyst," network security control,reactjs,ai/ml",mumbai
+48,Vikas,Mukesh,8533626711,34,10,vikasmukesh@gmail.com,data scientist,"python,flask,data mining",jaipur
+49,Satish,Kavita,8392731831,25,2,satishkavita@gmail.com,data scientist,"python,operating systems,c/javascript/python",jaipur
+50,Shivangi,Rajat,8947377188,29,3,shivangirajat@gmail.com,data scientist,"python,controls and frameworks ,c/javascript/python",gujarat
+51,Kayla,Rohan,8477344186,34,10,kaylarohan@gmail.com,cyber security,"scripting,controls and frameworks ,java/python",delhi
+52,Manish,Juhi,8370998006,31,8,manishjuhi@gmail.com,frontend developer,"html/css,operating systems,data mining",chennai
+53,Manoj,Harsh,6645951239,23,0,manojharsh@gmail.com,devops engineer,"linux , data structures,cloud",hyderabad
+54,Vivek,Riya,6174673033,25,2,vivekriya@gmail.com,data scientist,"python,python,c/javascript/python",delhi
+55,Riya,Riya,6495718751,35,3,riyariya@gmail.com,cyber security,"scripting, administrative expertise,java/python",bangalore
+56,Sheetal,Shruti,6198652681,32,3,sheetalshruti@gmail.com,security analyst," network security control,python,intrusion detection",hyderabad
+57,Pooja,Rahul,6950226214,24,1,poojarahul@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,java/python",chennai
+58,Marie,Mahesh,8829668599,33,10,mariemahesh@gmail.com,cyber security,"scripting,operating systems,dbms",kochi
+59,Sweta,Mukesh,8340483938,33,3,swetamukesh@gmail.com,frontend developer,"html/css, data structures,java/python",bangalore
+60,Deepak,Rinku,8196268771,29,6,deepakrinku@gmail.com,security analyst," network security control, data structures,ci/cd pipelines",mumbai
+61,Vinay,Mukesh,6700389932,28,5,vinaymukesh@gmail.com,cyber security,"scripting,controls and frameworks ,intrusion detection",mangalore
+62,Santosh,Bobby,9238118840,24,1,santoshbobby@gmail.com,data scientist,"python,flask,ai/ml",hyderabad
+63,Ralph,Sweta,6596866503,34,10,ralphsweta@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,intrusion detection",pune
+64,Suresh,Ananya,6928151875,27,4,sureshananya@gmail.com,blockchain engineer,"cryptography,node.js,cloud",chennai
+65,Ashish,Alexis,6503566835,26,0,ashishalexis@gmail.com,cloud architect,"operating systems, data structures,dbms",chennai
+66,Russell,Suresh,9131122986,33,3,russellsuresh@gmail.com,data scientist,"python,operating systems,c/javascript/python",kochi
+67,Arjun,Vidya,8119030480,27,1,arjunvidya@gmail.com,hr,"communication skills,node.js,c/javascript/python",hyderabad
+68,Akshara,Alka,6902455060,25,2,aksharaalka@gmail.com,data scientist,"python,data analysis and visualization,ci/cd pipelines",hyderabad
+69,Vijay,Shivangi,9746324380,24,0,vijayshivangi@gmail.com,blockchain engineer,"cryptography,dbms,ci/cd pipelines",chennai
+70,Ashish,Philip,8614358269,30,3,ashishphilip@gmail.com,devops engineer,"linux , administrative expertise,c/javascript/python",gujarat
+71,Juhi,Alice,6530639400,34,10,juhialice@gmail.com,ai/ml architect,"machine learning expertise,big data,c/javascript/python",mumbai
+72,Vidya,Shruti,8762562267,29,6,vidyashruti@gmail.com,data scientist,"python,networking and data centres,intrusion detection",gujarat
+73,Ritu,Arjun,6882046565,23,0,rituarjun@gmail.com,frontend developer,"html/css,operating systems,intrusion detection",jaipur
+74,Mohan,Ankita,8906408201,34,3,mohanankita@gmail.com,blockchain engineer,"cryptography, data structures,dbms",gujarat
+75,Ria,Rakesh,8195371272,30,3,riarakesh@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,ai/ml",gujarat
+76,Mohan,Priyanka,8173542970,24,1,mohanpriyanka@gmail.com,iot solutions architect,"api automation and testing ,dbms,data mining",kochi
+77,Doris,Roshni,8826273183,32,9,dorisroshni@gmail.com,security analyst," network security control,networking and data centres,ci/cd pipelines",mumbai
+78,Bobby,Ramesh,9656793322,27,4,bobbyramesh@gmail.com,hr,"communication skills,controls and frameworks ,pipeline planning",hyderabad
+79,Shruti,Juhi,9243552323,23,0,shrutijuhi@gmail.com,frontend developer,"html/css,flask,java/python",bangalore
+80,Ria,Akshara,9110912840,30,7,riaakshara@gmail.com,cloud architect,"operating systems,data analysis and visualization,pipeline planning",calcutta
+81,Roshni,Kirti,8207701261,34,10,roshnikirti@gmail.com,data scientist,"python, administrative expertise,java/python",pune
+82,Parul,Savita,6571637380,28,2,parulsavita@gmail.com,data scientist,"python,data analysis and visualization,java/python",delhi
+83,Pramod,Raghav,8945262970,31,3,pramodraghav@gmail.com,data scientist,"python,dbms,algorithms and frameworks",kochi
+84,Sunil,Eugene,9582282212,29,6,sunileugene@gmail.com,devops engineer,"linux ,flask,ci/cd pipelines",gujarat
+85,Bradley,Parul,8316317287,33,3,bradleyparul@gmail.com,cyber security,"scripting,dbms,dbms",kochi
+86,Naresh,Juhi,6279170958,31,8,nareshjuhi@gmail.com,iot solutions architect,"api automation and testing ,node.js,ci/cd pipelines",gujarat
+87,Rohan,Subhash,6915376049,25,0,rohansubhash@gmail.com,hr,"communication skills,data analysis and visualization,cloud",hyderabad
+88,Juhi,Rohit,9344225132,33,10,juhirohit@gmail.com,data scientist,"python,operating systems,pipeline planning",gujarat
+89,Naresh,Neetu,6593997542,33,10,nareshneetu@gmail.com,cloud architect,"operating systems,controls and frameworks ,pipeline planning",mangalore
+90,Vinod,Avinash,8103525103,35,10,vinodavinash@gmail.com,blockchain engineer,"cryptography,python,javascript",mumbai
+91,Mohan,Juhi,9487146000,30,3,mohanjuhi@gmail.com,devops engineer,"linux ,controls and frameworks ,ai/ml",kochi
+92,Manish,Ashish,9187461072,23,0,manishashish@gmail.com,blockchain engineer,"cryptography,python, hr management knowledge and expertise",gujarat
+93,Divya,Philip,8855635704,25,0,divyaphilip@gmail.com,devops engineer,"linux ,python,ci/cd pipelines",calcutta
+94,Tanisha,Pooja,6325018098,35,3,tanishapooja@gmail.com,frontend developer,"html/css,node.js,algorithms and frameworks",mumbai
+95,Sumit,Sunil,9113170283,25,0,sumitsunil@gmail.com,iot solutions architect,"api automation and testing ,flask, hr management knowledge and expertise",mumbai
+96,Rajesh,Amit,9808596626,31,3,rajeshamit@gmail.com,security analyst," network security control,networking and data centres,pipeline planning",delhi
+97,Anika,Riya,9114978925,26,0,anikariya@gmail.com,blockchain engineer,"cryptography,operating systems,java/python",mangalore
+98,Arvind,Rajat,6397804761,35,3,arvindrajat@gmail.com,iot solutions architect,"api automation and testing , data structures,c/javascript/python",mangalore
+99,Kajal,Riya,9493826606,25,0,kajalriya@gmail.com,data scientist,"python,reactjs,algorithms and frameworks",pune
+100,Kirti,Gaurav,6578275477,25,2,kirtigaurav@gmail.com,security analyst," network security control,operating systems,intrusion detection",pune
+101,Ravi,Aarti,8914258434,28,5,raviaarti@gmail.com,cyber security,"scripting,controls and frameworks ,algorithms and frameworks",pune
+102,Mohan,Pooja,8708994472,34,10,mohanpooja@gmail.com,security analyst," network security control,controls and frameworks ,cloud",mangalore
+103,Priyanka,Gaurav,9439984566,24,1,priyankagaurav@gmail.com,hr,"communication skills,operating systems,dbms",bangalore
+104,Arjun,Shubham,9475507906,34,10,arjunshubham@gmail.com,ai/ml architect,"machine learning expertise,flask,dbms",jaipur
+105,Ankita,Savita,9680174067,34,3,ankitasavita@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,ai/ml",bangalore
+106,Philip,Sunil,8459561514,24,1,philipsunil@gmail.com,machine learning engineer,"mathematics and statistics,dbms,java/python",chennai
+107,Juhi,Aarav,6794818961,27,1,juhiaarav@gmail.com,frontend developer,"html/css, data structures,java/python",kochi
+108,Eve,Shruti,9887531965,27,4,eveshruti@gmail.com,hr,"communication skills,data analysis and visualization,data mining",mumbai
+109,Suresh,Pradeep,8818596608,24,1,sureshpradeep@gmail.com,iot solutions architect,"api automation and testing ,flask,javascript",chennai
+110,Anjana,Nisha,9277768014,23,0,anjananisha@gmail.com,machine learning engineer,"mathematics and statistics, data structures,intrusion detection",pune
+111,Sunil,Ishita,9379330423,28,2,sunilishita@gmail.com,ai/ml architect,"machine learning expertise,operating systems,pipeline planning",mumbai
+112,Shruti,Shivangi,8328161840,29,6,shrutishivangi@gmail.com,data scientist,"python,reactjs,cloud",mumbai
+113,Renu,Marie,8865916315,29,6,renumarie@gmail.com,ai/ml architect,"machine learning expertise, data structures,data mining",pune
+114,Anika,Anjali,8793791489,27,1,anikaanjali@gmail.com,data scientist,"python,flask,cloud",mangalore
+115,Mukesh,Harsh,9291851811,28,2,mukeshharsh@gmail.com,data scientist,"python,big data,data mining",delhi
+116,Vinod,Sunil,8766206962,29,6,vinodsunil@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,ci/cd pipelines",bangalore
+117,Ajay,Rahul,9941384646,27,4,ajayrahul@gmail.com,ai/ml architect,"machine learning expertise,dbms,ai/ml",pune
+118,Neeraj,Ishita,8491404169,32,3,neerajishita@gmail.com,machine learning engineer,"mathematics and statistics,node.js,algorithms and frameworks",delhi
+119,Vandana,Pooja,8638421812,27,4,vandanapooja@gmail.com,machine learning engineer,"mathematics and statistics,dbms,javascript",bangalore
+120,Mukesh,Lori,9324249415,31,8,mukeshlori@gmail.com,data scientist,"python,controls and frameworks ,pipeline planning",mangalore
+121,Kavita,Sanjay,6778695947,35,10,kavitasanjay@gmail.com,data scientist,"python,networking and data centres,pipeline planning",mangalore
+122,Juhi,Suman,8165699812,25,0,juhisuman@gmail.com,data scientist,"python,data analysis and visualization,pipeline planning",delhi
+123,Rakesh,Santosh,9571873960,30,7,rakeshsantosh@gmail.com,machine learning engineer,"mathematics and statistics,python,ai/ml",hyderabad
+124,Kavita,Rohan,6159003593,26,0,kavitarohan@gmail.com,ai/ml architect,"machine learning expertise,operating systems,algorithms and frameworks",pune
+125,Roshni,Bhavna,6964230134,32,3,roshnibhavna@gmail.com,iot solutions architect,"api automation and testing ,big data,ai/ml",mumbai
+126,Vivek,Alice,9849421477,25,2,vivekalice@gmail.com,cyber security,"scripting,dbms,ai/ml",pune
+127,Pramod,Payal,6804379870,27,4,pramodpayal@gmail.com,data scientist,"python,data analysis and visualization,ci/cd pipelines",hyderabad
+128,Aarav,Shubham,8239607251,25,2,aaravshubham@gmail.com,security analyst," network security control,data analysis and visualization,intrusion detection",mumbai
+129,Vikas,Riya,8214626060,33,3,vikasriya@gmail.com,data scientist,"python,python,c/javascript/python",chennai
+130,Russell,Juhi,9136193585,28,5,russelljuhi@gmail.com,data scientist,"python,reactjs,c/javascript/python",mumbai
+131,Payal,Roshni,6320956614,27,4,payalroshni@gmail.com,data scientist,"python,flask,ci/cd pipelines",mangalore
+132,Vidya,Savita,9705418260,23,0,vidyasavita@gmail.com,cyber security,"scripting,data analysis and visualization,java/python",delhi
+133,Harsh,Gaurav,6476874081,35,10,harshgaurav@gmail.com,frontend developer,"html/css,big data,ai/ml",mumbai
+134,Sandeep,Vinay,8851958556,33,3,sandeepvinay@gmail.com,cloud architect,"operating systems,controls and frameworks ,cloud",pune
+135,Ishita,Aarti,8566055205,34,10,ishitaaarti@gmail.com,cyber security,"scripting,data analysis and visualization,javascript",pune
+136,Aanya,Shubham,6302443944,32,3,aanyashubham@gmail.com,ai/ml architect,"machine learning expertise,node.js,pipeline planning",mangalore
+137,Arvind,Shubham,9579498293,24,1,arvindshubham@gmail.com,data scientist,"python,data analysis and visualization,dbms",hyderabad
+138,Sangeeta,Sangeeta,8964569314,30,3,sangeetasangeeta@gmail.com,data scientist,"python,flask,ai/ml",mumbai
+139,Rajendra,Santosh,9885761829,26,0,rajendrasantosh@gmail.com,devops engineer,"linux ,networking and data centres, hr management knowledge and expertise",kochi
+140,Rahul,Shubham,8338424960,32,9,rahulshubham@gmail.com,iot solutions architect,"api automation and testing ,big data,dbms",delhi
+141,Rajendra,Bob,8158960106,26,3,rajendrabob@gmail.com,ai/ml architect,"machine learning expertise,python,c/javascript/python",jaipur
+142,Gaurav,Rakesh,8767996284,32,3,gauravrakesh@gmail.com,iot solutions architect,"api automation and testing ,flask,ci/cd pipelines",bangalore
+143,Pradeep,Ankita,9782930737,24,0,pradeepankita@gmail.com,iot solutions architect,"api automation and testing ,dbms,javascript",kochi
+144,Russell,Kamal,9511106019,30,3,russellkamal@gmail.com,cyber security,"scripting,networking and data centres,javascript",pune
+145,Akshara,Vinod,6124874197,30,7,aksharavinod@gmail.com,ai/ml architect,"machine learning expertise,node.js,java/python",mangalore
+146,Kayla,Sonam,9636300693,35,3,kaylasonam@gmail.com,cyber security,"scripting, data structures,ci/cd pipelines",pune
+147,Sunil,Alka,8928120502,32,3,sunilalka@gmail.com,security analyst," network security control,python,data mining",calcutta
+148,Philip,Gaurav,6855342417,33,10,philipgaurav@gmail.com,hr,"communication skills, administrative expertise,c/javascript/python",bangalore
+149,Rahul,Satish,9482298834,24,0,rahulsatish@gmail.com,data scientist,"python,networking and data centres, hr management knowledge and expertise",pune
+150,Anika,Sumit,9986272418,34,3,anikasumit@gmail.com,blockchain engineer,"cryptography,flask,dbms",mumbai
+151,Kayla,Ananya,8193863726,32,9,kaylaananya@gmail.com,frontend developer,"html/css,node.js,data mining",gujarat
+152,Sweta,Sanjay,8370016317,23,0,swetasanjay@gmail.com,frontend developer,"html/css,big data,algorithms and frameworks",bangalore
+153,Kavita,Doris,6672950899,27,4,kavitadoris@gmail.com,cloud architect,"operating systems,reactjs,intrusion detection",pune
+154,Sweta,Bradley,9354821371,26,3,swetabradley@gmail.com,hr,"communication skills,controls and frameworks ,c/javascript/python",mumbai
+155,Satish,Pranav,6982350418,29,6,satishpranav@gmail.com,iot solutions architect,"api automation and testing ,node.js, hr management knowledge and expertise",mangalore
+156,Kamal,Santosh,9693369943,25,0,kamalsantosh@gmail.com,machine learning engineer,"mathematics and statistics,networking and data centres,javascript",delhi
+157,Kamal,Sunita,8895156494,35,10,kamalsunita@gmail.com,frontend developer,"html/css,reactjs,data mining",hyderabad
+158,Avinash,Manish,6671337823,33,3,avinashmanish@gmail.com,security analyst," network security control,flask,cloud",delhi
+159,Doris,Vikas,6283759070,29,6,dorisvikas@gmail.com,frontend developer,"html/css,operating systems,java/python",mumbai
+160,Vikas,Kayla,6338978797,27,4,vikaskayla@gmail.com,blockchain engineer,"cryptography,dbms,javascript",hyderabad
+161,Rajat,Sheetal,9757379235,28,2,rajatsheetal@gmail.com,frontend developer,"html/css,big data,data mining",kochi
+162,Roshni,Savita,8628007544,34,10,roshnisavita@gmail.com,security analyst," network security control, data structures,c/javascript/python",bangalore
+163,Kirti,Nisha,6705210579,33,3,kirtinisha@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,algorithms and frameworks",mumbai
+164,Shivangi,Sonam,9777261357,27,1,shivangisonam@gmail.com,hr,"communication skills,flask,ai/ml",bangalore
+165,Doris,Rajendra,8386308004,32,3,dorisrajendra@gmail.com,data scientist,"python,operating systems, hr management knowledge and expertise",mangalore
+166,Lori,Santosh,8837901464,29,6,lorisantosh@gmail.com,hr,"communication skills,node.js,pipeline planning",mumbai
+167,Bobby,Vinod,9935838362,35,3,bobbyvinod@gmail.com,blockchain engineer,"cryptography, administrative expertise,ai/ml",gujarat
+168,Pradeep,Parul,6780851416,26,0,pradeepparul@gmail.com,devops engineer,"linux , administrative expertise,javascript",jaipur
+169,Raju,Manish,9570924267,34,3,rajumanish@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,ci/cd pipelines",pune
+170,Anjana,Parul,6571266121,23,0,anjanaparul@gmail.com,blockchain engineer,"cryptography,dbms, hr management knowledge and expertise",delhi
+171,Pranav,Rohit,6140862106,33,10,pranavrohit@gmail.com,hr,"communication skills,big data,pipeline planning",bangalore
+172,Kavita,Mukesh,9805915868,25,0,kavitamukesh@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,c/javascript/python",hyderabad
+173,Riyaan,Prakash,9180372825,28,2,riyaanprakash@gmail.com,cloud architect,"operating systems,operating systems,ci/cd pipelines",delhi
+174,Pramod,Harsh,9192731747,30,7,pramodharsh@gmail.com,ai/ml architect,"machine learning expertise,big data,intrusion detection",gujarat
+175,Tanisha,Shilpa,6610876188,29,6,tanishashilpa@gmail.com,data scientist,"python,python,intrusion detection",mumbai
+176,Ria,Eve,9813979864,31,8,riaeve@gmail.com,security analyst," network security control,controls and frameworks ,intrusion detection",hyderabad
+177,Divya,Tanvi,8138763606,27,1,divyatanvi@gmail.com,cyber security,"scripting,data analysis and visualization,javascript",pune
+178,Alka,Tanvi,6483248763,35,10,alkatanvi@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,ci/cd pipelines",calcutta
+179,Raju,Manoj,6524458491,24,1,rajumanoj@gmail.com,devops engineer,"linux ,node.js,dbms",bangalore
+180,Sunil,Subhash,9533343559,32,3,sunilsubhash@gmail.com,data scientist,"python,data analysis and visualization,algorithms and frameworks",calcutta
+181,Anjana,Arjun,6431307947,27,4,anjanaarjun@gmail.com,frontend developer,"html/css,big data,cloud",mumbai
+182,Kajal,Akshara,9422170548,23,0,kajalakshara@gmail.com,machine learning engineer,"mathematics and statistics, data structures,pipeline planning",bangalore
+183,Tanvi,Naresh,8366923432,25,2,tanvinaresh@gmail.com,ai/ml architect,"machine learning expertise, data structures,cloud",gujarat
+184,Marie,Roshni,8295888956,31,3,marieroshni@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,c/javascript/python",calcutta
+185,Dinesh,Alexis,6306922898,33,10,dineshalexis@gmail.com,cyber security,"scripting,controls and frameworks ,ci/cd pipelines",bangalore
+186,Eve,Subhash,9254430887,25,2,evesubhash@gmail.com,frontend developer,"html/css,big data,pipeline planning",delhi
+187,Philip,Rinku,8212824046,31,8,philiprinku@gmail.com,security analyst," network security control,controls and frameworks ,ci/cd pipelines",kochi
+188,Pranav,Eve,9263763912,29,3,pranaveve@gmail.com,data scientist,"python,python,ci/cd pipelines",kochi
+189,Abhinav,Savita,8435724296,26,3,abhinavsavita@gmail.com,iot solutions architect,"api automation and testing ,big data,data mining",chennai
+190,Harsh,Arjun,9902594150,35,3,harsharjun@gmail.com,ai/ml architect,"machine learning expertise,python,data mining",hyderabad
+191,Vinay,Neetu,9983252430,27,4,vinayneetu@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,intrusion detection",calcutta
+192,Ankita,Kirti,6684256204,32,9,ankitakirti@gmail.com,hr,"communication skills,controls and frameworks ,javascript",bangalore
+193,Sunil,Pradeep,6937459336,29,3,sunilpradeep@gmail.com,cyber security,"scripting,networking and data centres,cloud",hyderabad
+194,Sumit,Naresh,8821248904,35,10,sumitnaresh@gmail.com,iot solutions architect,"api automation and testing ,operating systems,javascript",chennai
+195,Ananya,Ananya,8144127617,26,3,ananyaananya@gmail.com,hr,"communication skills,networking and data centres,ci/cd pipelines",kochi
+196,Rajesh,Ashish,6756801514,27,4,rajeshashish@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,c/javascript/python",gujarat
+197,Vidya,Bobby,6577126492,26,3,vidyabobby@gmail.com,data scientist,"python,dbms,java/python",kochi
+198,Arvind,Kirti,8430428008,29,6,arvindkirti@gmail.com,machine learning engineer,"mathematics and statistics,dbms,ai/ml",mangalore
+199,Abhinav,Manish,6511989330,34,10,abhinavmanish@gmail.com,hr,"communication skills, administrative expertise,javascript",kochi
+200,Shivangi,Nisha,6557793594,30,7,shivanginisha@gmail.com,frontend developer,"html/css,dbms,intrusion detection",jaipur
+201,Rahul,Ishita,8177153124,35,10,rahulishita@gmail.com,devops engineer,"linux ,reactjs,ci/cd pipelines",mangalore
+202,Doris,Renu,6372166143,33,10,dorisrenu@gmail.com,hr,"communication skills,big data,data mining",kochi
+203,Mukesh,Sonam,9416755267,31,8,mukeshsonam@gmail.com,cyber security,"scripting, administrative expertise,dbms",hyderabad
+204,Ananya,Rajesh,8131067726,27,1,ananyarajesh@gmail.com,iot solutions architect,"api automation and testing ,flask,c/javascript/python",calcutta
+205,Kajal,Payal,9404674543,34,10,kajalpayal@gmail.com,ai/ml architect,"machine learning expertise,node.js,pipeline planning",jaipur
+206,Parul,Rajesh,9458189298,25,0,parulrajesh@gmail.com,cloud architect,"operating systems,dbms,ci/cd pipelines",delhi
+207,Sheetal,John,8873322879,34,3,sheetaljohn@gmail.com,devops engineer,"linux ,big data,algorithms and frameworks",calcutta
+208,Sunil,Sunil,9201968701,35,3,sunilsunil@gmail.com,data scientist,"python, data structures,c/javascript/python",chennai
+209,Reena,Bobby,6746934230,27,1,reenabobby@gmail.com,machine learning engineer,"mathematics and statistics,node.js,pipeline planning",calcutta
+210,Abhinav,Reena,8980759716,24,0,abhinavreena@gmail.com,ai/ml architect,"machine learning expertise,dbms,c/javascript/python",mumbai
+211,Harsh,Harsh,9461885136,29,3,harshharsh@gmail.com,data scientist,"python,node.js,dbms",mangalore
+212,Ananya,Kavita,8491271216,33,3,ananyakavita@gmail.com,data scientist,"python,big data,intrusion detection",delhi
+213,Satish,Akshara,8847484718,28,5,satishakshara@gmail.com,blockchain engineer,"cryptography,reactjs,cloud",kochi
+214,Ralph,Nisha,6620849858,28,2,ralphnisha@gmail.com,hr,"communication skills, administrative expertise,dbms",chennai
+215,Arjun,Sonam,6342357274,27,4,arjunsonam@gmail.com,data scientist,"python, administrative expertise,javascript",bangalore
+216,Manoj,Vivek,8243312682,23,0,manojvivek@gmail.com,devops engineer,"linux , data structures,java/python",mumbai
+217,Alka,Shilpa,9958878315,32,9,alkashilpa@gmail.com,machine learning engineer,"mathematics and statistics,big data,intrusion detection",delhi
+218,Satish,Alexis,8777581547,33,3,satishalexis@gmail.com,cloud architect,"operating systems, administrative expertise,intrusion detection",delhi
+219,Sanjana,Doris,9369319661,34,10,sanjanadoris@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,ai/ml",calcutta
+220,Alka,Sheetal,6213985518,23,0,alkasheetal@gmail.com,hr,"communication skills,dbms,ai/ml",jaipur
+221,Russell,Bhavna,8322716937,30,7,russellbhavna@gmail.com,security analyst," network security control,python,algorithms and frameworks",bangalore
+222,Ralph,Sheetal,6113667132,23,0,ralphsheetal@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,data mining",delhi
+223,Vandana,Juhi,9201340271,30,3,vandanajuhi@gmail.com,data scientist,"python,operating systems,pipeline planning",gujarat
+224,Ralph,Sanjana,6943684229,30,7,ralphsanjana@gmail.com,iot solutions architect,"api automation and testing ,data analysis and visualization,ai/ml",chennai
+225,Mahesh,Sweta,8529275659,31,8,maheshsweta@gmail.com,data scientist,"python,node.js,javascript",jaipur
+226,Bradley,Payal,9560115224,35,3,bradleypayal@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,dbms",delhi
+227,Vinay,Nisha,9883205157,30,3,vinaynisha@gmail.com,data scientist,"python,big data,ci/cd pipelines",chennai
+228,Alexis,Anjana,9932867633,26,3,alexisanjana@gmail.com,security analyst," network security control,operating systems,data mining",jaipur
+229,Vinod,Rajendra,9652925131,32,3,vinodrajendra@gmail.com,cyber security,"scripting,flask,java/python",chennai
+230,Deepak,Harsh,6925675555,35,10,deepakharsh@gmail.com,ai/ml architect,"machine learning expertise,reactjs,data mining",chennai
+231,Rajesh,Nisha,8217955076,25,2,rajeshnisha@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,pipeline planning",pune
+232,Akshara,Meera,8400374643,24,1,aksharameera@gmail.com,frontend developer,"html/css, administrative expertise,c/javascript/python",mangalore
+233,Sanjay,Bradley,9562456977,32,9,sanjaybradley@gmail.com,data scientist,"python, administrative expertise,ai/ml",mumbai
+234,Kamal,Tanisha,8756538507,33,3,kamaltanisha@gmail.com,devops engineer,"linux ,networking and data centres,java/python",calcutta
+235,Mahesh,Aarav,9143469152,35,10,maheshaarav@gmail.com,ai/ml architect,"machine learning expertise,python,ci/cd pipelines",pune
+236,Priyanka,Doris,9723288118,23,0,priyankadoris@gmail.com,devops engineer,"linux ,reactjs,javascript",delhi
+237,Sonam,Kayla,6733844007,23,0,sonamkayla@gmail.com,data scientist,"python,data analysis and visualization, hr management knowledge and expertise",bangalore
+238,Sangeeta,Shruti,9725956383,29,6,sangeetashruti@gmail.com,iot solutions architect,"api automation and testing ,flask,data mining",bangalore
+239,Satish,Suresh,9418110476,33,10,satishsuresh@gmail.com,hr,"communication skills,flask,cloud",kochi
+240,Philip,Savita,9325753384,32,3,philipsavita@gmail.com,ai/ml architect,"machine learning expertise,flask,pipeline planning",bangalore
+241,Ramesh,Aarti,6892775658,28,2,rameshaarti@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,javascript",mumbai
+242,Pramod,Arvind,8266457537,33,10,pramodarvind@gmail.com,devops engineer,"linux ,python,data mining",bangalore
+243,Roshni,Alice,9813067933,29,6,roshnialice@gmail.com,devops engineer,"linux ,operating systems,javascript",jaipur
+244,Vandana,Raghav,8178615733,34,3,vandanaraghav@gmail.com,security analyst," network security control,reactjs,ai/ml",gujarat
+245,Prakash,Mohan,9825516536,28,5,prakashmohan@gmail.com,hr,"communication skills, administrative expertise,intrusion detection",kochi
+246,Ajay,Aarav,8934016985,32,3,ajayaarav@gmail.com,ai/ml architect,"machine learning expertise,big data,javascript",calcutta
+247,Priyanka,Anjana,6520493711,29,6,priyankaanjana@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,ci/cd pipelines",kochi
+248,Kirti,Mahesh,9582324930,25,2,kirtimahesh@gmail.com,data scientist,"python,python,algorithms and frameworks",jaipur
+249,Bob,Manish,6912363873,29,6,bobmanish@gmail.com,ai/ml architect,"machine learning expertise,node.js,java/python",gujarat
+250,Pramod,Avinash,9866216380,25,0,pramodavinash@gmail.com,blockchain engineer,"cryptography,node.js,cloud",calcutta
+251,Ravi,Aanya,6517578371,27,4,raviaanya@gmail.com,cloud architect,"operating systems,controls and frameworks ,java/python",mumbai
+252,Shivangi,Rajesh,6127264236,30,7,shivangirajesh@gmail.com,cloud architect,"operating systems,big data,pipeline planning",kochi
+253,Meera,Pramod,9639316239,34,10,meerapramod@gmail.com,devops engineer,"linux ,data analysis and visualization,dbms",delhi
+254,Shruti,Raju,6698213358,26,3,shrutiraju@gmail.com,security analyst," network security control,operating systems,cloud",kochi
+255,Ravi,Sanjana,9590133704,31,3,ravisanjana@gmail.com,security analyst," network security control,dbms,javascript",bangalore
+256,Kajal,Aarti,8689682306,32,3,kajalaarti@gmail.com,frontend developer,"html/css, administrative expertise,data mining",kochi
+257,Sangeeta,Shilpa,8176704561,31,8,sangeetashilpa@gmail.com,cloud architect,"operating systems,reactjs,cloud",gujarat
+258,Manish,Aanya,9792754680,35,10,manishaanya@gmail.com,security analyst," network security control,node.js,intrusion detection",mumbai
+259,Kavita,Gaurav,9800439276,29,3,kavitagaurav@gmail.com,blockchain engineer,"cryptography,dbms, hr management knowledge and expertise",pune
+260,Mahesh,Mahesh,8735243870,26,0,maheshmahesh@gmail.com,ai/ml architect,"machine learning expertise,flask,ci/cd pipelines",mangalore
+261,Nisha,Tanisha,6201890632,32,9,nishatanisha@gmail.com,cloud architect,"operating systems,reactjs,c/javascript/python",calcutta
+262,Riya,Russell,9292834184,30,7,riyarussell@gmail.com,cyber security,"scripting,data analysis and visualization,cloud",mumbai
+263,Riya,Harsh,8332658311,33,10,riyaharsh@gmail.com,data scientist,"python,big data,cloud",mumbai
+264,Ananya,Naresh,6635840875,35,10,ananyanaresh@gmail.com,data scientist,"python, administrative expertise,data mining",hyderabad
+265,Arvind,Russell,8162822987,26,0,arvindrussell@gmail.com,hr,"communication skills,data analysis and visualization,data mining",mangalore
+266,Shivangi,Kamal,8455142152,32,9,shivangikamal@gmail.com,blockchain engineer,"cryptography,networking and data centres,dbms",mumbai
+267,Rajat,Pradeep,9894428089,34,3,rajatpradeep@gmail.com,devops engineer,"linux ,node.js,pipeline planning",delhi
+268,Shivangi,Rohit,9417145636,24,1,shivangirohit@gmail.com,data scientist,"python, data structures,intrusion detection",mangalore
+269,Deepak,Prakash,9361142086,33,10,deepakprakash@gmail.com,blockchain engineer,"cryptography,dbms,c/javascript/python",delhi
+270,Shilpa,Amit,8522827306,35,3,shilpaamit@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,java/python",gujarat
+271,Raju,Neetu,6486159792,27,4,rajuneetu@gmail.com,devops engineer,"linux ,operating systems,ci/cd pipelines",mumbai
+272,Prakash,Dinesh,8397269524,26,3,prakashdinesh@gmail.com,frontend developer,"html/css,networking and data centres,cloud",chennai
+273,Alice,Ralph,8891998276,26,3,aliceralph@gmail.com,data scientist,"python,node.js,data mining",calcutta
+274,Rajendra,Kavita,6905855494,27,4,rajendrakavita@gmail.com,cyber security,"scripting,dbms,ai/ml",jaipur
+275,John,Payal,6517438688,33,3,johnpayal@gmail.com,blockchain engineer,"cryptography, administrative expertise,cloud",jaipur
+276,Anika,Avinash,6656865796,35,3,anikaavinash@gmail.com,data scientist,"python,flask,pipeline planning",chennai
+277,Raju,Priyanka,6995533459,34,3,rajupriyanka@gmail.com,data scientist,"python,data analysis and visualization,java/python",jaipur
+278,Vinod,Meera,6339744208,35,3,vinodmeera@gmail.com,blockchain engineer,"cryptography,operating systems,ai/ml",pune
+279,Nisha,Ramesh,9476784614,28,2,nisharamesh@gmail.com,cyber security,"scripting,node.js,dbms",calcutta
+280,Kirti,Prakash,8320852063,33,10,kirtiprakash@gmail.com,cloud architect,"operating systems,node.js, hr management knowledge and expertise",hyderabad
+281,Sunil,Vinay,8975494009,28,5,sunilvinay@gmail.com,data scientist,"python,flask,pipeline planning",hyderabad
+282,Neetu,Anjana,6155738379,25,2,neetuanjana@gmail.com,ai/ml architect,"machine learning expertise,big data,ai/ml",delhi
+283,John,Sandeep,6286718786,28,5,johnsandeep@gmail.com,data scientist,"python,reactjs,dbms",calcutta
+284,Santosh,Naresh,8621675030,31,8,santoshnaresh@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,data mining",mumbai
+285,Ralph,Arvind,6202257611,23,0,ralpharvind@gmail.com,blockchain engineer,"cryptography, data structures, hr management knowledge and expertise",calcutta
+286,Savita,Kirti,6929516161,25,2,savitakirti@gmail.com,cyber security,"scripting, administrative expertise, hr management knowledge and expertise",hyderabad
+287,Rohan,Mohan,9749062569,34,3,rohanmohan@gmail.com,cloud architect,"operating systems,operating systems, hr management knowledge and expertise",hyderabad
+288,Naresh,Divya,8630926221,28,2,nareshdivya@gmail.com,data scientist,"python,data analysis and visualization, hr management knowledge and expertise",mangalore
+289,Tanvi,Shivangi,8185379765,33,10,tanvishivangi@gmail.com,data scientist,"python,operating systems, hr management knowledge and expertise",chennai
+290,Philip,Roshni,6534131244,35,3,philiproshni@gmail.com,frontend developer,"html/css, data structures, hr management knowledge and expertise",kochi
+291,Vidya,Sanjana,8870868552,32,9,vidyasanjana@gmail.com,hr,"communication skills,controls and frameworks ,pipeline planning",gujarat
+292,Meera,Kirti,6867916833,26,0,meerakirti@gmail.com,hr,"communication skills, data structures,ai/ml",calcutta
+293,Priya,Mukesh,9985255642,32,9,priyamukesh@gmail.com,data scientist,"python,node.js,dbms",kochi
+294,Bobby,Rohan,9438271250,23,0,bobbyrohan@gmail.com,devops engineer,"linux ,reactjs,ci/cd pipelines",pune
+295,Santosh,Sunil,8116828403,33,10,santoshsunil@gmail.com,hr,"communication skills,flask,algorithms and frameworks",chennai
+296,Anika,Kajal,8987704326,23,0,anikakajal@gmail.com,blockchain engineer,"cryptography,dbms, hr management knowledge and expertise",chennai
+297,Arvind,Bradley,8602342143,35,3,arvindbradley@gmail.com,blockchain engineer,"cryptography,node.js,cloud",kochi
+298,Priyanka,Ashish,8163586750,35,3,priyankaashish@gmail.com,data scientist,"python, administrative expertise, hr management knowledge and expertise",mumbai
+299,Bradley,Shruti,9537120536,32,9,bradleyshruti@gmail.com,cyber security,"scripting,big data,c/javascript/python",hyderabad
+300,Doris,Arjun,8251551005,35,10,dorisarjun@gmail.com,machine learning engineer,"mathematics and statistics,dbms,pipeline planning",mumbai
+301,Mukesh,Rakesh,8779122549,31,8,mukeshrakesh@gmail.com,cloud architect,"operating systems,networking and data centres,cloud",hyderabad
+302,Ashish,Ajay,8532587509,27,1,ashishajay@gmail.com,data scientist,"python,flask,algorithms and frameworks",chennai
+303,Sweta,Alka,8456320765,27,1,swetaalka@gmail.com,blockchain engineer,"cryptography,reactjs,pipeline planning",kochi
+304,Vikas,Riyaan,8725780366,31,3,vikasriyaan@gmail.com,security analyst," network security control,reactjs,intrusion detection",kochi
+305,Nisha,Pradeep,6443528504,25,0,nishapradeep@gmail.com,ai/ml architect,"machine learning expertise,dbms,cloud",delhi
+306,Arjun,Dinesh,9996462916,25,2,arjundinesh@gmail.com,blockchain engineer,"cryptography,operating systems,ci/cd pipelines",mangalore
+307,Ishita,Vivek,6742099832,34,3,ishitavivek@gmail.com,data scientist,"python,big data,c/javascript/python",mangalore
+308,Riya,Pranav,9386551405,31,8,riyapranav@gmail.com,hr,"communication skills,dbms,data mining",mumbai
+309,Sunil,Sunita,6330973696,27,4,sunilsunita@gmail.com,security analyst," network security control, data structures,ai/ml",chennai
+310,Sanjay,Ralph,8535201072,30,3,sanjayralph@gmail.com,hr,"communication skills, administrative expertise,ai/ml",mumbai
+311,Mukesh,Priyanka,9830019547,33,10,mukeshpriyanka@gmail.com,devops engineer,"linux , data structures,dbms",mangalore
+312,Pramod,Anjana,8536235716,26,3,pramodanjana@gmail.com,data scientist,"python,dbms, hr management knowledge and expertise",delhi
+313,Rakesh,Shilpa,8412950149,34,10,rakeshshilpa@gmail.com,ai/ml architect,"machine learning expertise,big data,algorithms and frameworks",bangalore
+314,Ajay,Sweta,9167083280,27,4,ajaysweta@gmail.com,data scientist,"python, administrative expertise, hr management knowledge and expertise",bangalore
+315,Deepak,Sunil,9418762555,30,3,deepaksunil@gmail.com,devops engineer,"linux ,data analysis and visualization,data mining",gujarat
+316,Ralph,Ravi,6467684651,35,3,ralphravi@gmail.com,iot solutions architect,"api automation and testing ,dbms,ci/cd pipelines",gujarat
+317,Payal,Mahesh,9341395159,26,0,payalmahesh@gmail.com,data scientist,"python,data analysis and visualization, hr management knowledge and expertise",delhi
+318,Arvind,Nisha,9195071478,26,3,arvindnisha@gmail.com,cyber security,"scripting,dbms,intrusion detection",hyderabad
+319,Gaurav,Riyaan,8594771895,28,5,gauravriyaan@gmail.com,cyber security,"scripting,networking and data centres, hr management knowledge and expertise",calcutta
+320,Avinash,John,9808235507,24,0,avinashjohn@gmail.com,data scientist,"python,operating systems,java/python",delhi
+321,Kavita,Shubham,8876919315,34,3,kavitashubham@gmail.com,frontend developer,"html/css,flask,ai/ml",mangalore
+322,Pramod,Pramod,8990989300,31,8,pramodpramod@gmail.com,data scientist,"python, data structures,cloud",hyderabad
+323,Dinesh,Meera,8535713413,23,0,dineshmeera@gmail.com,frontend developer,"html/css,python,ai/ml",pune
+324,Sunita,Mukesh,6756132492,33,3,sunitamukesh@gmail.com,hr,"communication skills,data analysis and visualization,java/python",chennai
+325,Shruti,Sheetal,8466178510,25,2,shrutisheetal@gmail.com,iot solutions architect,"api automation and testing ,node.js,java/python",mumbai
+326,Alka,Sonam,6134808454,30,3,alkasonam@gmail.com,frontend developer,"html/css,big data,c/javascript/python",calcutta
+327,Alexis,Mukesh,9256515752,34,10,alexismukesh@gmail.com,frontend developer,"html/css,controls and frameworks ,pipeline planning",hyderabad
+328,Aarav,Sunil,6770495119,34,3,aaravsunil@gmail.com,data scientist,"python,dbms,dbms",jaipur
+329,Ramesh,Eugene,6766502130,26,3,ramesheugene@gmail.com,blockchain engineer,"cryptography, administrative expertise,pipeline planning",mangalore
+330,Sweta,Ishita,8536150978,26,3,swetaishita@gmail.com,frontend developer,"html/css, administrative expertise,c/javascript/python",bangalore
+331,Avinash,Vijay,8195610747,23,0,avinashvijay@gmail.com,iot solutions architect,"api automation and testing ,operating systems,ci/cd pipelines",bangalore
+332,Kavita,Anika,9237867250,34,3,kavitaanika@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,intrusion detection",delhi
+333,Vinay,Bobby,6952714699,30,3,vinaybobby@gmail.com,frontend developer,"html/css,dbms,javascript",chennai
+334,Rajendra,Arjun,9424931566,27,4,rajendraarjun@gmail.com,cyber security,"scripting,operating systems,ai/ml",kochi
+335,Suman,Shivangi,6163380785,26,3,sumanshivangi@gmail.com,blockchain engineer,"cryptography,data analysis and visualization,cloud",jaipur
+336,Raju,Pramod,6343059437,32,9,rajupramod@gmail.com,ai/ml architect,"machine learning expertise,operating systems,pipeline planning",chennai
+337,Aarav,Divya,8203653619,29,3,aaravdivya@gmail.com,ai/ml architect,"machine learning expertise,reactjs,c/javascript/python",jaipur
+338,Satish,Ravi,9342563286,25,0,satishravi@gmail.com,security analyst," network security control,dbms,intrusion detection",bangalore
+339,Ritu,Rohit,9675841062,24,0,riturohit@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,dbms",kochi
+340,Nisha,Alexis,9831899240,28,2,nishaalexis@gmail.com,cloud architect,"operating systems,controls and frameworks ,dbms",delhi
+341,Shilpa,Rakesh,6228583310,32,9,shilparakesh@gmail.com,cloud architect,"operating systems,networking and data centres,c/javascript/python",gujarat
+342,Suresh,Juhi,6219274758,26,0,sureshjuhi@gmail.com,security analyst," network security control,dbms,intrusion detection",mumbai
+343,Ashish,Shivangi,6681971438,28,5,ashishshivangi@gmail.com,iot solutions architect,"api automation and testing ,data analysis and visualization,c/javascript/python",chennai
+344,John,Alka,9547508301,31,3,johnalka@gmail.com,frontend developer,"html/css,networking and data centres,pipeline planning",gujarat
+345,Bob,Juhi,6653697650,23,0,bobjuhi@gmail.com,data scientist,"python,networking and data centres, hr management knowledge and expertise",delhi
+346,Rinku,Rajesh,6798118607,30,7,rinkurajesh@gmail.com,machine learning engineer,"mathematics and statistics,big data,ai/ml",chennai
+347,Vinay,Aarti,9664388134,24,0,vinayaarti@gmail.com,security analyst," network security control,dbms,data mining",bangalore
+348,Suresh,Vivek,8711166913,29,3,sureshvivek@gmail.com,frontend developer,"html/css,data analysis and visualization,intrusion detection",hyderabad
+349,Riyaan,Suresh,9787598949,27,4,riyaansuresh@gmail.com,data scientist,"python,data analysis and visualization,data mining",mumbai
+350,Avinash,Suresh,6276779359,33,3,avinashsuresh@gmail.com,ai/ml architect,"machine learning expertise,networking and data centres,javascript",jaipur
+351,Vijay,Pramod,9777717460,32,9,vijaypramod@gmail.com,frontend developer,"html/css, data structures,dbms",delhi
+352,Vinay,Rajendra,8834603225,29,6,vinayrajendra@gmail.com,ai/ml architect,"machine learning expertise,big data,javascript",delhi
+353,Kajal,Vinod,8326036128,35,10,kajalvinod@gmail.com,cyber security,"scripting,controls and frameworks ,pipeline planning",mumbai
+354,Anjana,Anjali,6687795310,34,3,anjanaanjali@gmail.com,data scientist,"python,flask,intrusion detection",kochi
+355,Ashish,Nisha,6730884002,28,5,ashishnisha@gmail.com,data scientist,"python, administrative expertise,dbms",jaipur
+356,Suman,Amit,9627079155,29,6,sumanamit@gmail.com,data scientist,"python,controls and frameworks ,javascript",chennai
+357,Juhi,Meera,9952705516,29,6,juhimeera@gmail.com,hr,"communication skills,data analysis and visualization,ci/cd pipelines",mangalore
+358,Payal,Shruti,9599586425,33,3,payalshruti@gmail.com,machine learning engineer,"mathematics and statistics,node.js,intrusion detection",kochi
+359,Parul,Subhash,8405697894,35,3,parulsubhash@gmail.com,data scientist,"python,node.js,data mining",bangalore
+360,Ishita,Reena,6117234634,32,3,ishitareena@gmail.com,data scientist,"python,operating systems,cloud",jaipur
+361,Akshara,Doris,9517770289,24,1,aksharadoris@gmail.com,data scientist,"python,flask,c/javascript/python",gujarat
+362,Vivek,Parul,6418713029,26,0,vivekparul@gmail.com,data scientist,"python, administrative expertise,intrusion detection",kochi
+363,Payal,Kirti,6587863482,27,4,payalkirti@gmail.com,security analyst," network security control, administrative expertise,dbms",bangalore
+364,Rajesh,Payal,8256490213,23,0,rajeshpayal@gmail.com,cloud architect,"operating systems,networking and data centres,intrusion detection",mumbai
+365,Rajesh,Gaurav,6639222399,31,3,rajeshgaurav@gmail.com,blockchain engineer,"cryptography,controls and frameworks , hr management knowledge and expertise",pune
+366,Doris,Gaurav,9501898558,34,3,dorisgaurav@gmail.com,security analyst," network security control,networking and data centres,ci/cd pipelines",bangalore
+367,Lori,Manish,6181282647,35,10,lorimanish@gmail.com,cloud architect,"operating systems,data analysis and visualization, hr management knowledge and expertise",gujarat
+368,Vandana,Riya,9530006364,34,10,vandanariya@gmail.com,iot solutions architect,"api automation and testing , data structures,algorithms and frameworks",hyderabad
+369,Nisha,Aarti,8695847988,25,2,nishaaarti@gmail.com,frontend developer,"html/css,controls and frameworks ,intrusion detection",pune
+370,Arjun,Neeraj,9151986523,32,3,arjunneeraj@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,algorithms and frameworks",bangalore
+371,Philip,Rajat,8318963200,25,2,philiprajat@gmail.com,frontend developer,"html/css,big data,dbms",hyderabad
+372,Pranav,Neetu,8504302087,29,6,pranavneetu@gmail.com,iot solutions architect,"api automation and testing ,python,ai/ml",chennai
+373,Kamal,Meera,9930578370,29,3,kamalmeera@gmail.com,data scientist,"python,operating systems,pipeline planning",kochi
+374,Sumit,Rohan,6632427830,32,9,sumitrohan@gmail.com,devops engineer,"linux ,node.js,java/python",calcutta
+375,Sanjana,Juhi,8891351804,31,3,sanjanajuhi@gmail.com,iot solutions architect,"api automation and testing ,big data,intrusion detection",mangalore
+376,Ashish,Renu,9359755556,35,3,ashishrenu@gmail.com,data scientist,"python, data structures,data mining",bangalore
+377,Sweta,Gaurav,8796350735,24,1,swetagaurav@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,c/javascript/python",delhi
+378,Ishita,Neeraj,6766193311,27,1,ishitaneeraj@gmail.com,ai/ml architect,"machine learning expertise,dbms,algorithms and frameworks",gujarat
+379,Alice,Manoj,8922841301,30,3,alicemanoj@gmail.com,devops engineer,"linux ,node.js,c/javascript/python",bangalore
+380,Priya,Alice,8437277649,26,3,priyaalice@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,pipeline planning",kochi
+381,Sangeeta,Sunita,9126166632,29,3,sangeetasunita@gmail.com,data scientist,"python,operating systems,data mining",jaipur
+382,Naresh,Lori,9691620860,31,8,nareshlori@gmail.com,frontend developer,"html/css,dbms,data mining",bangalore
+383,Manoj,Neeraj,8279656352,33,10,manojneeraj@gmail.com,data scientist,"python,python,ci/cd pipelines",jaipur
+384,Arjun,Aanya,6230777099,35,3,arjunaanya@gmail.com,cloud architect,"operating systems,big data,intrusion detection",mumbai
+385,Pranav,Sonam,8456115630,32,3,pranavsonam@gmail.com,data scientist,"python,reactjs,dbms",delhi
+386,Shruti,Suman,6288707077,32,3,shrutisuman@gmail.com,hr,"communication skills,big data,java/python",mangalore
+387,Santosh,Bob,8538886220,33,3,santoshbob@gmail.com,hr,"communication skills, data structures,data mining",hyderabad
+388,Dinesh,Vikas,8870098648,24,0,dineshvikas@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,ci/cd pipelines",jaipur
+389,Vandana,Kajal,8426006764,25,0,vandanakajal@gmail.com,data scientist,"python,controls and frameworks ,dbms",hyderabad
+390,Ashish,Santosh,8351935630,25,2,ashishsantosh@gmail.com,machine learning engineer,"mathematics and statistics, data structures, hr management knowledge and expertise",chennai
+391,Neetu,Parul,9211324828,24,0,neetuparul@gmail.com,ai/ml architect,"machine learning expertise,controls and frameworks ,data mining",kochi
+392,Ria,Ajay,8605070789,25,2,riaajay@gmail.com,ai/ml architect,"machine learning expertise,node.js,javascript",mangalore
+393,Ajay,Vandana,8849881169,30,3,ajayvandana@gmail.com,hr,"communication skills,controls and frameworks ,algorithms and frameworks",pune
+394,Tanisha,Alexis,6987442697,33,10,tanishaalexis@gmail.com,frontend developer,"html/css,reactjs,data mining",mangalore
+395,Juhi,Sumit,8589212905,31,8,juhisumit@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,intrusion detection",pune
+396,Anjana,Sunil,9562535760,28,2,anjanasunil@gmail.com,security analyst," network security control,node.js,java/python",hyderabad
+397,Payal,Suman,6689780979,30,7,payalsuman@gmail.com,cloud architect,"operating systems,python,intrusion detection",kochi
+398,Ria,Rinku,6100650997,33,3,riarinku@gmail.com,devops engineer,"linux ,big data,ai/ml",mangalore
+399,Aarav,Kajal,9957442861,29,6,aaravkajal@gmail.com,cloud architect,"operating systems, data structures,data mining",bangalore
+400,Vinod,Ramesh,6930355869,31,8,vinodramesh@gmail.com,hr,"communication skills,networking and data centres,ci/cd pipelines",mangalore
+401,Aarav,Roshni,8408376666,24,0,aaravroshni@gmail.com,devops engineer,"linux ,python,ai/ml",mumbai
+402,Rajendra,Neeraj,9419604634,26,0,rajendraneeraj@gmail.com,data scientist,"python, administrative expertise,cloud",kochi
+403,Anjana,Mukesh,6628715586,24,1,anjanamukesh@gmail.com,blockchain engineer,"cryptography, administrative expertise,ci/cd pipelines",pune
+404,Priyanka,Pramod,6956573230,30,3,priyankapramod@gmail.com,security analyst," network security control,reactjs,javascript",mumbai
+405,Rajat,Payal,9350094444,28,2,rajatpayal@gmail.com,cloud architect,"operating systems,flask,pipeline planning",mangalore
+406,Rinku,Eve,6786264448,25,0,rinkueve@gmail.com,ai/ml architect,"machine learning expertise,operating systems,pipeline planning",gujarat
+407,Vinay,Subhash,6611077595,32,3,vinaysubhash@gmail.com,cyber security,"scripting,python,algorithms and frameworks",bangalore
+408,Rajesh,Neetu,8577055042,23,0,rajeshneetu@gmail.com,cyber security,"scripting,python,c/javascript/python",mumbai
+409,Juhi,Avinash,6810787421,28,2,juhiavinash@gmail.com,ai/ml architect,"machine learning expertise, data structures,intrusion detection",bangalore
+410,Mohan,Deepak,6557484076,26,3,mohandeepak@gmail.com,security analyst," network security control,networking and data centres,algorithms and frameworks",pune
+411,Riya,Juhi,8107280285,26,0,riyajuhi@gmail.com,machine learning engineer,"mathematics and statistics,networking and data centres,c/javascript/python",jaipur
+412,Anika,Satish,9234720589,28,2,anikasatish@gmail.com,devops engineer,"linux ,controls and frameworks ,cloud",delhi
+413,Arvind,Riya,9983195824,33,10,arvindriya@gmail.com,data scientist,"python,python,javascript",mumbai
+414,Savita,Sandeep,6748846896,26,3,savitasandeep@gmail.com,machine learning engineer,"mathematics and statistics,flask, hr management knowledge and expertise",mangalore
+415,Kavita,Santosh,6965345184,31,8,kavitasantosh@gmail.com,security analyst," network security control,node.js,ci/cd pipelines",mangalore
+416,Reena,Vikas,6430799486,35,3,reenavikas@gmail.com,frontend developer,"html/css,node.js,pipeline planning",chennai
+417,Sanjay,Bob,9848300426,26,3,sanjaybob@gmail.com,ai/ml architect,"machine learning expertise,operating systems, hr management knowledge and expertise",kochi
+418,Sunil,Kajal,9165489676,35,3,sunilkajal@gmail.com,devops engineer,"linux ,networking and data centres,java/python",jaipur
+419,Neeraj,Abhinav,6567160749,23,0,neerajabhinav@gmail.com,data scientist,"python, data structures,intrusion detection",mumbai
+420,Ankita,Pradeep,6732037149,30,3,ankitapradeep@gmail.com,machine learning engineer,"mathematics and statistics, data structures,javascript",jaipur
+421,Payal,Raghav,8185799852,34,3,payalraghav@gmail.com,blockchain engineer,"cryptography,node.js,algorithms and frameworks",chennai
+422,Mohan,Eve,8448130250,24,1,mohaneve@gmail.com,ai/ml architect,"machine learning expertise,dbms,javascript",jaipur
+423,Pradeep,Alice,9320564882,32,9,pradeepalice@gmail.com,security analyst," network security control,big data,ci/cd pipelines",mumbai
+424,Ramesh,Pradeep,8362477178,35,10,rameshpradeep@gmail.com,data scientist,"python,flask,data mining",mumbai
+425,Sandeep,John,8105735364,32,3,sandeepjohn@gmail.com,cloud architect,"operating systems,dbms,javascript",hyderabad
+426,Vinay,John,6181491185,35,10,vinayjohn@gmail.com,data scientist,"python,node.js,intrusion detection",kochi
+427,Anjali,Kavita,9342333584,32,9,anjalikavita@gmail.com,ai/ml architect,"machine learning expertise,flask,cloud",gujarat
+428,Juhi,Suresh,9157341490,29,6,juhisuresh@gmail.com,data scientist,"python,python,intrusion detection",mumbai
+429,Lori,Renu,8293119991,34,10,lorirenu@gmail.com,machine learning engineer,"mathematics and statistics,python,java/python",mumbai
+430,Rakesh,Anjali,6291340591,31,3,rakeshanjali@gmail.com,data scientist,"python,dbms,cloud",mangalore
+431,Vidya,Sunil,6207282058,26,3,vidyasunil@gmail.com,devops engineer,"linux , data structures,pipeline planning",mumbai
+432,Sanjay,Vandana,9971624848,24,1,sanjayvandana@gmail.com,frontend developer,"html/css,controls and frameworks ,javascript",mumbai
+433,Eve,Philip,9685204703,33,10,evephilip@gmail.com,frontend developer,"html/css,dbms,ai/ml",pune
+434,Vandana,Reena,6822761066,28,2,vandanareena@gmail.com,blockchain engineer,"cryptography,operating systems,ai/ml",mumbai
+435,Lori,Sumit,9369207048,25,0,lorisumit@gmail.com,ai/ml architect,"machine learning expertise,operating systems,javascript",mangalore
+436,Eve,Riya,6427030027,26,3,everiya@gmail.com,hr,"communication skills, administrative expertise, hr management knowledge and expertise",delhi
+437,Russell,Sunil,9771260823,28,5,russellsunil@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,ai/ml",kochi
+438,Neetu,Manoj,6545341040,23,0,neetumanoj@gmail.com,devops engineer,"linux , data structures,java/python",kochi
+439,Bhavna,Manoj,8814421259,34,10,bhavnamanoj@gmail.com,cyber security,"scripting,big data,cloud",mumbai
+440,Raju,Harsh,8495319069,31,3,rajuharsh@gmail.com,iot solutions architect,"api automation and testing ,big data,cloud",kochi
+441,Manoj,Mahesh,8686028545,34,10,manojmahesh@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,dbms",mumbai
+442,Manoj,Ritu,8226358880,29,6,manojritu@gmail.com,frontend developer,"html/css,operating systems,javascript",pune
+443,Dinesh,Priya,8837549828,28,2,dineshpriya@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,intrusion detection",jaipur
+444,Bradley,Rajat,6663982511,31,3,bradleyrajat@gmail.com,security analyst," network security control,python,algorithms and frameworks",delhi
+445,Aarav,Pramod,8114899937,23,0,aaravpramod@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,ai/ml",mumbai
+446,Kamal,John,6387794835,30,7,kamaljohn@gmail.com,devops engineer,"linux ,controls and frameworks ,algorithms and frameworks",mangalore
+447,Anjana,Pramod,6276178455,34,10,anjanapramod@gmail.com,iot solutions architect,"api automation and testing , data structures,c/javascript/python",delhi
+448,Sweta,Ralph,6702134531,23,0,swetaralph@gmail.com,frontend developer,"html/css,node.js, hr management knowledge and expertise",jaipur
+449,Kavita,Sangeeta,8748198932,34,3,kavitasangeeta@gmail.com,data scientist,"python,operating systems,c/javascript/python",hyderabad
+450,Juhi,Raju,9232636099,26,3,juhiraju@gmail.com,frontend developer,"html/css,node.js,dbms",kochi
+451,Priyanka,Mahesh,9986890366,28,5,priyankamahesh@gmail.com,data scientist,"python,operating systems,cloud",hyderabad
+452,Dinesh,Deepak,6674125552,24,0,dineshdeepak@gmail.com,frontend developer,"html/css, administrative expertise,intrusion detection",gujarat
+453,Bobby,Neeraj,6308694038,29,3,bobbyneeraj@gmail.com,security analyst," network security control,data analysis and visualization,pipeline planning",delhi
+454,Anjana,Alka,8746160359,32,9,anjanaalka@gmail.com,blockchain engineer,"cryptography,python,java/python",mangalore
+455,Sandeep,Anjana,6188607834,33,10,sandeepanjana@gmail.com,blockchain engineer,"cryptography,node.js,ci/cd pipelines",delhi
+456,Rajesh,Alexis,9732618597,25,2,rajeshalexis@gmail.com,devops engineer,"linux ,flask,ai/ml",kochi
+457,Alice,Savita,6565643267,30,3,alicesavita@gmail.com,security analyst," network security control,data analysis and visualization, hr management knowledge and expertise",chennai
+458,Vinay,Sangeeta,8868295089,23,0,vinaysangeeta@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,java/python",gujarat
+459,Rohan,Anjana,9733347333,24,0,rohananjana@gmail.com,iot solutions architect,"api automation and testing ,big data, hr management knowledge and expertise",delhi
+460,Divya,Kirti,8397497913,25,0,divyakirti@gmail.com,blockchain engineer,"cryptography,data analysis and visualization,ai/ml",jaipur
+461,Pranav,Prakash,8673331048,34,10,pranavprakash@gmail.com,cyber security,"scripting,networking and data centres,intrusion detection",gujarat
+462,Mahesh,Raghav,8503944647,32,3,maheshraghav@gmail.com,devops engineer,"linux ,big data,c/javascript/python",kochi
+463,Riyaan,Kavita,8721374515,24,1,riyaankavita@gmail.com,data scientist,"python,data analysis and visualization,java/python",delhi
+464,Ravi,Philip,8619084136,27,1,raviphilip@gmail.com,security analyst," network security control,data analysis and visualization,cloud",bangalore
+465,Reena,Tanisha,6270901655,26,3,reenatanisha@gmail.com,data scientist,"python,controls and frameworks ,cloud",mumbai
+466,Nisha,John,8701865208,25,0,nishajohn@gmail.com,security analyst," network security control,big data,dbms",hyderabad
+467,Vivek,Sanjay,8960418291,28,2,viveksanjay@gmail.com,frontend developer,"html/css,big data,cloud",kochi
+468,Marie,Abhinav,9798295629,29,6,marieabhinav@gmail.com,security analyst," network security control,data analysis and visualization,javascript",jaipur
+469,Rahul,Anika,6861649557,24,0,rahulanika@gmail.com,security analyst," network security control,python,cloud",pune
+470,Roshni,Lori,8498546830,34,3,roshnilori@gmail.com,hr,"communication skills,operating systems,ci/cd pipelines",jaipur
+471,Riyaan,Raju,6102144276,25,2,riyaanraju@gmail.com,devops engineer,"linux ,data analysis and visualization,dbms",delhi
+472,Arjun,Philip,6993935941,30,3,arjunphilip@gmail.com,data scientist,"python,big data,java/python",mumbai
+473,Kayla,Pradeep,9803952681,25,0,kaylapradeep@gmail.com,devops engineer,"linux ,python,ai/ml",mangalore
+474,Vivek,Kayla,9241863558,23,0,vivekkayla@gmail.com,security analyst," network security control, data structures,ci/cd pipelines",mumbai
+475,Rohit,Suresh,9134227649,35,10,rohitsuresh@gmail.com,blockchain engineer,"cryptography,networking and data centres,ci/cd pipelines",calcutta
+476,Sangeeta,Manoj,6693550115,24,1,sangeetamanoj@gmail.com,cyber security,"scripting,operating systems,pipeline planning",mangalore
+477,Ankita,Sheetal,6374135776,35,10,ankitasheetal@gmail.com,devops engineer,"linux ,controls and frameworks ,javascript",mumbai
+478,Priyanka,Sangeeta,6368065033,32,9,priyankasangeeta@gmail.com,blockchain engineer,"cryptography,data analysis and visualization,dbms",jaipur
+479,Kirti,Bradley,9310779098,24,0,kirtibradley@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,intrusion detection",jaipur
+480,Renu,Ritu,6572145121,34,3,renuritu@gmail.com,ai/ml architect,"machine learning expertise,python,c/javascript/python",bangalore
+481,Aarti,Rajat,6620906600,23,0,aartirajat@gmail.com,security analyst," network security control,controls and frameworks ,intrusion detection",hyderabad
+482,Eve,Sweta,6402363994,27,1,evesweta@gmail.com,cyber security,"scripting,operating systems,intrusion detection",pune
+483,Harsh,Shilpa,6120961134,23,0,harshshilpa@gmail.com,data scientist,"python,data analysis and visualization,data mining",pune
+484,Rahul,Ritu,8431766556,33,10,rahulritu@gmail.com,cyber security,"scripting,big data, hr management knowledge and expertise",kochi
+485,Vidya,Renu,6496908044,31,8,vidyarenu@gmail.com,devops engineer,"linux ,node.js,ci/cd pipelines",pune
+486,Sangeeta,Avinash,9285891729,26,3,sangeetaavinash@gmail.com,devops engineer,"linux ,reactjs,cloud",bangalore
+487,Bob,Gaurav,9163503482,27,4,bobgaurav@gmail.com,devops engineer,"linux ,flask,c/javascript/python",kochi
+488,Alexis,Sunil,8253786631,24,0,alexissunil@gmail.com,devops engineer,"linux , administrative expertise,java/python",chennai
+489,Aanya,Aarti,8700120931,23,0,aanyaaarti@gmail.com,data scientist,"python,node.js,cloud",pune
+490,Aarav,Rajat,9856593478,34,3,aaravrajat@gmail.com,cloud architect,"operating systems,data analysis and visualization,javascript",chennai
+491,Ria,Sweta,6988225550,28,5,riasweta@gmail.com,ai/ml architect,"machine learning expertise,operating systems, hr management knowledge and expertise",calcutta
+492,Shivangi,Sheetal,6873946653,24,1,shivangisheetal@gmail.com,security analyst," network security control,dbms,data mining",delhi
+493,Ria,Raghav,9926337943,29,3,riaraghav@gmail.com,hr,"communication skills,reactjs,dbms",jaipur
+494,Riya,Kavita,6837302353,30,3,riyakavita@gmail.com,ai/ml architect,"machine learning expertise, data structures,dbms",chennai
+495,Tanisha,Bhavna,6600217806,33,10,tanishabhavna@gmail.com,blockchain engineer,"cryptography,operating systems,javascript",chennai
+496,Gaurav,Bobby,8949843345,25,2,gauravbobby@gmail.com,cyber security,"scripting, data structures,javascript",mangalore
+497,Deepak,Vandana,6366175706,33,3,deepakvandana@gmail.com,frontend developer,"html/css,networking and data centres,data mining",delhi
+498,Vinod,Vinay,9180747511,23,0,vinodvinay@gmail.com,security analyst," network security control, administrative expertise,java/python",mangalore
+499,Riyaan,Sandeep,8188796765,27,1,riyaansandeep@gmail.com,frontend developer,"html/css, data structures,pipeline planning",chennai
+500,John,Bradley,8881308964,23,0,johnbradley@gmail.com,cyber security,"scripting,big data,c/javascript/python",mumbai
+501,Rohit,Mahesh,8794255508,34,3,rohitmahesh@gmail.com,hr,"communication skills,python,dbms",calcutta
+502,Suman,Akshara,9670865274,30,3,sumanakshara@gmail.com,cyber security,"scripting,dbms,intrusion detection",kochi
+503,Vidya,Tanisha,6140384949,34,3,vidyatanisha@gmail.com,data scientist,"python,big data,data mining",delhi
+504,Vikas,Santosh,8921027362,24,1,vikassantosh@gmail.com,frontend developer,"html/css,reactjs,cloud",mumbai
+505,Suman,Ritu,9222782445,26,0,sumanritu@gmail.com,devops engineer,"linux ,networking and data centres,ci/cd pipelines",mumbai
+506,Anjali,Rinku,6355734223,32,3,anjalirinku@gmail.com,cloud architect,"operating systems, data structures,java/python",kochi
+507,Meera,Vandana,9415466494,32,3,meeravandana@gmail.com,security analyst," network security control,networking and data centres,ai/ml",hyderabad
+508,Manoj,Priyanka,9151286463,32,3,manojpriyanka@gmail.com,devops engineer,"linux ,reactjs,java/python",calcutta
+509,Bob,Vivek,6786654899,28,5,bobvivek@gmail.com,frontend developer,"html/css,flask,algorithms and frameworks",bangalore
+510,Bob,Sweta,9616724213,35,3,bobsweta@gmail.com,security analyst," network security control,reactjs,ci/cd pipelines",calcutta
+511,Prakash,Riyaan,6643885137,34,10,prakashriyaan@gmail.com,hr,"communication skills,big data,intrusion detection",kochi
+512,Parul,Priyanka,8728036884,29,6,parulpriyanka@gmail.com,blockchain engineer,"cryptography, data structures,ci/cd pipelines",pune
+513,Rohit,Alexis,8979188001,26,0,rohitalexis@gmail.com,data scientist,"python,flask,java/python",kochi
+514,Tanisha,Raju,6563405239,32,3,tanisharaju@gmail.com,cloud architect,"operating systems,controls and frameworks ,data mining",chennai
+515,Ravi,Eugene,8509131686,35,10,ravieugene@gmail.com,cyber security,"scripting, data structures,pipeline planning",mumbai
+516,Vidya,Aarav,8491458062,34,10,vidyaaarav@gmail.com,data scientist,"python,dbms,cloud",kochi
+517,Priyanka,Vinod,6780575755,29,6,priyankavinod@gmail.com,data scientist,"python,data analysis and visualization,javascript",hyderabad
+518,Pooja,Sanjana,6661520332,34,3,poojasanjana@gmail.com,hr,"communication skills,networking and data centres,javascript",delhi
+519,Pranav,Riya,9986960488,26,3,pranavriya@gmail.com,frontend developer,"html/css,reactjs,algorithms and frameworks",delhi
+520,Kavita,Bob,6392322518,27,1,kavitabob@gmail.com,data scientist,"python,big data,ai/ml",mangalore
+521,Rohan,Eugene,6722771204,35,10,rohaneugene@gmail.com,data scientist,"python,reactjs,pipeline planning",hyderabad
+522,Rohan,Rajat,6989187292,26,3,rohanrajat@gmail.com,data scientist,"python,python,dbms",delhi
+523,Sunil,Ramesh,6783344608,29,3,sunilramesh@gmail.com,iot solutions architect,"api automation and testing ,dbms,pipeline planning",kochi
+524,Ananya,Riyaan,6246266898,35,3,ananyariyaan@gmail.com,hr,"communication skills,python,ai/ml",chennai
+525,Priyanka,Shivangi,6544931890,33,10,priyankashivangi@gmail.com,security analyst," network security control, administrative expertise,javascript",jaipur
+526,Payal,Vijay,8784019100,34,3,payalvijay@gmail.com,security analyst," network security control, data structures,ai/ml",pune
+527,Kayla,Ramesh,9542784786,24,1,kaylaramesh@gmail.com,devops engineer,"linux ,networking and data centres,pipeline planning",mumbai
+528,Alice,Gaurav,6823677324,25,2,alicegaurav@gmail.com,hr,"communication skills,controls and frameworks ,ai/ml",calcutta
+529,Amit,Kamal,8600874977,25,0,amitkamal@gmail.com,data scientist,"python,node.js,cloud",kochi
+530,Vidya,Rohan,6281799925,35,3,vidyarohan@gmail.com,data scientist,"python,python,cloud",delhi
+531,Aanya,Vikas,9604706337,28,2,aanyavikas@gmail.com,cloud architect,"operating systems, administrative expertise,c/javascript/python",bangalore
+532,Neeraj,Juhi,9169841354,35,3,neerajjuhi@gmail.com,security analyst," network security control, data structures,pipeline planning",delhi
+533,Sonam,Bhavna,8401788702,26,3,sonambhavna@gmail.com,ai/ml architect,"machine learning expertise,networking and data centres,data mining",delhi
+534,Ananya,Arjun,8874723391,32,9,ananyaarjun@gmail.com,security analyst," network security control, data structures,data mining",pune
+535,Pranav,Anjali,9229485882,35,3,pranavanjali@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,cloud",pune
+536,Dinesh,John,6524878353,23,0,dineshjohn@gmail.com,cyber security,"scripting,python,data mining",delhi
+537,Kavita,Sanjana,8607068022,26,3,kavitasanjana@gmail.com,machine learning engineer,"mathematics and statistics,dbms,ai/ml",chennai
+538,Sumit,Priyanka,9741119286,29,3,sumitpriyanka@gmail.com,frontend developer,"html/css,dbms,pipeline planning",calcutta
+539,Ravi,Shilpa,9779011835,25,0,ravishilpa@gmail.com,devops engineer,"linux , data structures,ai/ml",kochi
+540,Ashish,Sunil,9489160814,25,2,ashishsunil@gmail.com,machine learning engineer,"mathematics and statistics,flask,java/python",gujarat
+541,Sheetal,Harsh,8940219185,29,3,sheetalharsh@gmail.com,security analyst," network security control,networking and data centres,javascript",pune
+542,Lori,Sanjana,9604965117,24,0,lorisanjana@gmail.com,data scientist,"python,dbms,c/javascript/python",calcutta
+543,Sangeeta,Amit,9158773059,26,0,sangeetaamit@gmail.com,data scientist,"python,node.js,dbms",mumbai
+544,Dinesh,Ria,6920955955,34,10,dineshria@gmail.com,cyber security,"scripting, data structures,ci/cd pipelines",gujarat
+545,Rohit,Avinash,8726959444,31,8,rohitavinash@gmail.com,cyber security,"scripting,operating systems, hr management knowledge and expertise",mumbai
+546,Anika,Ishita,6218402092,28,5,anikaishita@gmail.com,security analyst," network security control,node.js,ai/ml",pune
+547,Priyanka,Pranav,6111232787,29,6,priyankapranav@gmail.com,ai/ml architect,"machine learning expertise,node.js,cloud",mumbai
+548,Aarti,Shilpa,8984821018,27,1,aartishilpa@gmail.com,cyber security,"scripting,networking and data centres,javascript",mumbai
+549,Rohit,Bhavna,8499892701,27,4,rohitbhavna@gmail.com,machine learning engineer,"mathematics and statistics,node.js,algorithms and frameworks",mangalore
+550,Bhavna,Arvind,8715233270,24,0,bhavnaarvind@gmail.com,cyber security,"scripting,reactjs,ci/cd pipelines",calcutta
+551,Divya,Shivangi,9842368648,23,0,divyashivangi@gmail.com,devops engineer,"linux ,operating systems,data mining",pune
+552,Vikas,Sanjay,6367956901,33,10,vikassanjay@gmail.com,frontend developer,"html/css,dbms,intrusion detection",kochi
+553,Gaurav,Gaurav,8564383080,25,0,gauravgaurav@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,cloud",hyderabad
+554,Shruti,Philip,6571012356,29,6,shrutiphilip@gmail.com,data scientist,"python, data structures,javascript",kochi
+555,Rajesh,Alice,6998772993,33,3,rajeshalice@gmail.com,devops engineer,"linux ,python,c/javascript/python",delhi
+556,Rajendra,Lori,9361463031,32,9,rajendralori@gmail.com,iot solutions architect,"api automation and testing ,node.js,algorithms and frameworks",mangalore
+557,Renu,Alice,9476466188,33,3,renualice@gmail.com,data scientist,"python,data analysis and visualization,javascript",hyderabad
+558,Alexis,Rahul,6696208921,26,0,alexisrahul@gmail.com,ai/ml architect,"machine learning expertise,big data,java/python",gujarat
+559,Kajal,Sanjana,8232003151,23,0,kajalsanjana@gmail.com,ai/ml architect,"machine learning expertise,dbms,pipeline planning",chennai
+560,Pradeep,Sanjana,9810294097,26,3,pradeepsanjana@gmail.com,data scientist,"python, data structures,javascript",pune
+561,Ria,Ankita,8736952296,27,4,riaankita@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,cloud",pune
+562,Naresh,Rajendra,8687296261,35,3,nareshrajendra@gmail.com,frontend developer,"html/css,networking and data centres,dbms",kochi
+563,Mahesh,Sandeep,9948997433,33,10,maheshsandeep@gmail.com,cyber security,"scripting, data structures,intrusion detection",calcutta
+564,Suman,Vidya,6583135728,30,3,sumanvidya@gmail.com,iot solutions architect,"api automation and testing ,flask,ai/ml",gujarat
+565,Vikas,Priyanka,9657933772,30,7,vikaspriyanka@gmail.com,security analyst," network security control,python,javascript",jaipur
+566,Sunil,Anika,8752040985,31,8,sunilanika@gmail.com,security analyst," network security control, administrative expertise,data mining",calcutta
+567,Priya,Pramod,6809706075,32,9,priyapramod@gmail.com,data scientist,"python,reactjs,c/javascript/python",mumbai
+568,Ralph,Rohan,6970187011,30,7,ralphrohan@gmail.com,frontend developer,"html/css,controls and frameworks ,intrusion detection",mumbai
+569,Neeraj,Sanjay,6510793699,24,0,neerajsanjay@gmail.com,frontend developer,"html/css,dbms,pipeline planning",hyderabad
+570,Shubham,Sunil,6550472817,24,1,shubhamsunil@gmail.com,data scientist,"python,networking and data centres,intrusion detection",mangalore
+571,Arjun,Mukesh,8378000211,35,3,arjunmukesh@gmail.com,data scientist,"python, administrative expertise, hr management knowledge and expertise",kochi
+572,Pramod,Sangeeta,6939818532,29,6,pramodsangeeta@gmail.com,blockchain engineer,"cryptography,node.js,c/javascript/python",pune
+573,Russell,Satish,9230674198,29,6,russellsatish@gmail.com,data scientist,"python,controls and frameworks ,c/javascript/python",jaipur
+574,Dinesh,Riya,9104795170,28,2,dineshriya@gmail.com,iot solutions architect,"api automation and testing ,python,ci/cd pipelines",mumbai
+575,Anjali,Alexis,6399368108,34,3,anjalialexis@gmail.com,blockchain engineer,"cryptography,python,dbms",mumbai
+576,Rajendra,Juhi,9358298824,26,0,rajendrajuhi@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,data mining",mangalore
+577,Ananya,Nisha,6594799414,27,4,ananyanisha@gmail.com,data scientist,"python,python,ai/ml",hyderabad
+578,Kajal,Tanisha,9432505343,30,7,kajaltanisha@gmail.com,hr,"communication skills,node.js,intrusion detection",delhi
+579,Sonam,Tanvi,9892083252,30,7,sonamtanvi@gmail.com,hr,"communication skills,flask,java/python",hyderabad
+580,Reena,Sumit,6843372596,27,1,reenasumit@gmail.com,iot solutions architect,"api automation and testing , data structures,java/python",mumbai
+581,Akshara,Ravi,6145474252,26,0,akshararavi@gmail.com,cloud architect,"operating systems,networking and data centres,cloud",pune
+582,Bhavna,Subhash,9915594064,27,1,bhavnasubhash@gmail.com,frontend developer,"html/css,reactjs,algorithms and frameworks",calcutta
+583,Manoj,Tanisha,9882273874,32,9,manojtanisha@gmail.com,ai/ml architect,"machine learning expertise,dbms,ai/ml",delhi
+584,Ashish,Rajendra,8523190883,28,2,ashishrajendra@gmail.com,devops engineer,"linux ,dbms,data mining",kochi
+585,Sanjana,Lori,9366611271,23,0,sanjanalori@gmail.com,data scientist,"python,big data,c/javascript/python",chennai
+586,Ritu,Lori,6938100038,33,3,ritulori@gmail.com,ai/ml architect,"machine learning expertise,networking and data centres,ai/ml",bangalore
+587,Mukesh,Satish,8906530520,23,0,mukeshsatish@gmail.com,cyber security,"scripting, data structures,java/python",bangalore
+588,Nisha,Bradley,9756263932,33,3,nishabradley@gmail.com,security analyst," network security control, data structures,javascript",chennai
+589,Satish,Arjun,8118918095,26,3,satisharjun@gmail.com,security analyst," network security control,python,intrusion detection",mumbai
+590,Doris,Riyaan,8625802509,28,2,dorisriyaan@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,c/javascript/python",calcutta
+591,Tanvi,Amit,8927019002,26,0,tanviamit@gmail.com,cloud architect,"operating systems,controls and frameworks ,algorithms and frameworks",calcutta
+592,Ankita,Ritu,9434369657,27,1,ankitaritu@gmail.com,security analyst," network security control,python,javascript",mumbai
+593,Ravi,Tanvi,9788504682,29,6,ravitanvi@gmail.com,data scientist,"python,data analysis and visualization,c/javascript/python",pune
+594,Sumit,Meera,6864742204,25,2,sumitmeera@gmail.com,ai/ml architect,"machine learning expertise, data structures,ci/cd pipelines",delhi
+595,Aarti,Satish,6335790179,27,4,aartisatish@gmail.com,hr,"communication skills,flask,c/javascript/python",hyderabad
+596,John,Sunil,6312022094,33,3,johnsunil@gmail.com,data scientist,"python,networking and data centres,ai/ml",chennai
+597,Reena,Pramod,9237128127,33,3,reenapramod@gmail.com,iot solutions architect,"api automation and testing ,python,ci/cd pipelines",calcutta
+598,Dinesh,Manish,9829526634,29,3,dineshmanish@gmail.com,cloud architect,"operating systems,flask,pipeline planning",gujarat
+599,Reena,Manish,9824499808,24,1,reenamanish@gmail.com,iot solutions architect,"api automation and testing ,dbms,intrusion detection",bangalore
+600,Ankita,Ralph,9261575623,26,0,ankitaralph@gmail.com,ai/ml architect,"machine learning expertise,dbms,ai/ml",mangalore
+601,Rajendra,Kirti,9570737946,30,7,rajendrakirti@gmail.com,frontend developer,"html/css, data structures, hr management knowledge and expertise",calcutta
+602,Akshara,Rajesh,6162232243,30,7,akshararajesh@gmail.com,blockchain engineer,"cryptography,python,java/python",mumbai
+603,Vandana,Deepak,9809030287,24,1,vandanadeepak@gmail.com,data scientist,"python,python,ci/cd pipelines",chennai
+604,Naresh,Riya,9690318450,35,3,nareshriya@gmail.com,blockchain engineer,"cryptography,operating systems, hr management knowledge and expertise",delhi
+605,Mohan,Ananya,9605703542,29,3,mohanananya@gmail.com,machine learning engineer,"mathematics and statistics,node.js,dbms",chennai
+606,Ramesh,Shilpa,8367511284,26,3,rameshshilpa@gmail.com,data scientist,"python,node.js,data mining",calcutta
+607,Doris,Marie,9949263631,34,10,dorismarie@gmail.com,iot solutions architect,"api automation and testing ,data analysis and visualization,javascript",calcutta
+608,Renu,Sonam,8552415397,30,3,renusonam@gmail.com,cloud architect,"operating systems,controls and frameworks ,dbms",chennai
+609,Tanisha,Tanisha,9278546724,30,7,tanishatanisha@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,algorithms and frameworks",bangalore
+610,Sweta,Shubham,9495469660,26,3,swetashubham@gmail.com,security analyst," network security control,controls and frameworks ,c/javascript/python",gujarat
+611,Ananya,Kirti,9795487057,35,10,ananyakirti@gmail.com,machine learning engineer,"mathematics and statistics,big data,ci/cd pipelines",jaipur
+612,Bhavna,Sweta,9358673733,33,10,bhavnasweta@gmail.com,cyber security,"scripting,controls and frameworks ,algorithms and frameworks",calcutta
+613,Abhinav,Prakash,8418923668,28,2,abhinavprakash@gmail.com,devops engineer,"linux , data structures,dbms",jaipur
+614,Subhash,Anjali,6612480613,32,9,subhashanjali@gmail.com,hr,"communication skills,node.js,java/python",mangalore
+615,Akshara,Alice,8724086054,27,1,aksharaalice@gmail.com,cloud architect,"operating systems,node.js,intrusion detection",calcutta
+616,Anjana,Rohan,6372058877,30,3,anjanarohan@gmail.com,machine learning engineer,"mathematics and statistics,flask,pipeline planning",hyderabad
+617,Ashish,Arjun,8126218592,31,8,ashisharjun@gmail.com,security analyst," network security control,dbms,ai/ml",pune
+618,Priya,Shivangi,9450833296,25,0,priyashivangi@gmail.com,devops engineer,"linux ,flask,cloud",gujarat
+619,Shivangi,Meera,6973997614,35,3,shivangimeera@gmail.com,data scientist,"python,data analysis and visualization,dbms",bangalore
+620,Philip,Kayla,6641321347,26,0,philipkayla@gmail.com,frontend developer,"html/css, administrative expertise,ci/cd pipelines",kochi
+621,Pradeep,Aarti,9914629938,33,3,pradeepaarti@gmail.com,cloud architect,"operating systems,operating systems,java/python",mumbai
+622,Manish,Aarti,6393929945,23,0,manishaarti@gmail.com,frontend developer,"html/css,controls and frameworks ,c/javascript/python",bangalore
+623,Suresh,Sangeeta,9568181454,24,0,sureshsangeeta@gmail.com,frontend developer,"html/css,big data,ci/cd pipelines",calcutta
+624,Prakash,Ananya,8821640934,29,6,prakashananya@gmail.com,iot solutions architect,"api automation and testing ,node.js,data mining",kochi
+625,Neeraj,Eve,6501164032,34,3,neerajeve@gmail.com,frontend developer,"html/css,operating systems,ai/ml",chennai
+626,Vivek,Neeraj,8289603021,34,10,vivekneeraj@gmail.com,machine learning engineer,"mathematics and statistics,networking and data centres,java/python",gujarat
+627,Ananya,Ajay,8463551489,33,3,ananyaajay@gmail.com,data scientist,"python,data analysis and visualization,intrusion detection",hyderabad
+628,Satish,Mahesh,8941518750,28,5,satishmahesh@gmail.com,machine learning engineer,"mathematics and statistics,reactjs,c/javascript/python",pune
+629,Sandeep,Neeraj,6454079507,32,3,sandeepneeraj@gmail.com,devops engineer,"linux , data structures,javascript",delhi
+630,Rinku,Shilpa,6174843198,29,3,rinkushilpa@gmail.com,cyber security,"scripting,flask,ai/ml",jaipur
+631,Bhavna,Kamal,8937273390,24,0,bhavnakamal@gmail.com,data scientist,"python,flask,cloud",chennai
+632,Prakash,Ankita,9513023482,30,7,prakashankita@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,data mining",calcutta
+633,Bradley,Tanisha,9242349845,35,3,bradleytanisha@gmail.com,cyber security,"scripting, administrative expertise,dbms",bangalore
+634,Sunil,Suresh,9809507425,32,9,sunilsuresh@gmail.com,data scientist,"python,node.js,pipeline planning",kochi
+635,Rajendra,Bobby,6436558821,25,0,rajendrabobby@gmail.com,data scientist,"python,flask,ai/ml",pune
+636,Rajesh,Abhinav,6450118510,27,4,rajeshabhinav@gmail.com,cloud architect,"operating systems,flask,java/python",kochi
+637,Rakesh,Bob,8932920410,27,4,rakeshbob@gmail.com,iot solutions architect,"api automation and testing ,flask,dbms",delhi
+638,Tanvi,Pooja,9562818696,23,0,tanvipooja@gmail.com,data scientist,"python,reactjs,dbms",bangalore
+639,Mukesh,Priya,6661017122,33,3,mukeshpriya@gmail.com,cloud architect,"operating systems, data structures,algorithms and frameworks",mumbai
+640,Vinay,Aarav,8471414846,34,10,vinayaarav@gmail.com,cloud architect,"operating systems, administrative expertise,javascript",kochi
+641,Rajesh,Aanya,8628114896,35,10,rajeshaanya@gmail.com,cyber security,"scripting,flask,ci/cd pipelines",kochi
+642,Pranav,Avinash,6403177261,28,5,pranavavinash@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,data mining",hyderabad
+643,Kirti,Renu,6910495921,30,7,kirtirenu@gmail.com,ai/ml architect,"machine learning expertise,node.js,intrusion detection",mangalore
+644,Abhinav,Bradley,8610470515,28,2,abhinavbradley@gmail.com,data scientist,"python,python,algorithms and frameworks",pune
+645,Sangeeta,Juhi,6998594685,33,3,sangeetajuhi@gmail.com,cyber security,"scripting,networking and data centres,intrusion detection",bangalore
+646,Ananya,Anjali,8797748145,33,3,ananyaanjali@gmail.com,hr,"communication skills,operating systems,javascript",kochi
+647,Aarav,Prakash,6893259159,32,3,aaravprakash@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,intrusion detection",mangalore
+648,Nisha,Riyaan,9638314174,31,3,nishariyaan@gmail.com,data scientist,"python,networking and data centres,ai/ml",mangalore
+649,Ananya,Rajendra,8254317517,34,3,ananyarajendra@gmail.com,frontend developer,"html/css,controls and frameworks ,data mining",delhi
+650,Ritu,Vinod,8938016827,35,3,rituvinod@gmail.com,iot solutions architect,"api automation and testing ,operating systems, hr management knowledge and expertise",delhi
+651,Naresh,Vandana,8622394724,34,10,nareshvandana@gmail.com,hr,"communication skills, data structures,pipeline planning",mangalore
+652,Pranav,Priyanka,9372568918,33,10,pranavpriyanka@gmail.com,cyber security,"scripting,flask,intrusion detection",mumbai
+653,Gaurav,Manish,8903789528,29,3,gauravmanish@gmail.com,cloud architect,"operating systems,python, hr management knowledge and expertise",kochi
+654,Prakash,Tanvi,9623653077,26,3,prakashtanvi@gmail.com,cyber security,"scripting,flask,dbms",bangalore
+655,Pranav,Doris,9750895382,27,4,pranavdoris@gmail.com,data scientist,"python,networking and data centres,java/python",hyderabad
+656,Ralph,Raghav,9178559057,25,2,ralphraghav@gmail.com,blockchain engineer,"cryptography,dbms,javascript",mumbai
+657,Aanya,Philip,9404558773,35,10,aanyaphilip@gmail.com,iot solutions architect,"api automation and testing ,flask, hr management knowledge and expertise",bangalore
+658,Savita,Sangeeta,8935560283,30,7,savitasangeeta@gmail.com,cyber security,"scripting,node.js,ai/ml",delhi
+659,Anika,Priyanka,9315541297,25,2,anikapriyanka@gmail.com,devops engineer,"linux ,python,dbms",mumbai
+660,Anjana,Anjana,8415989743,33,3,anjanaanjana@gmail.com,ai/ml architect,"machine learning expertise,dbms,javascript",kochi
+661,Rakesh,Russell,8479890819,35,10,rakeshrussell@gmail.com,data scientist,"python,flask,javascript",jaipur
+662,Bobby,Priyanka,6243904574,23,0,bobbypriyanka@gmail.com,frontend developer,"html/css,python,javascript",mumbai
+663,Doris,Anjana,9240345237,31,3,dorisanjana@gmail.com,hr,"communication skills,big data, hr management knowledge and expertise",gujarat
+664,Mahesh,Riya,8307467107,29,3,maheshriya@gmail.com,frontend developer,"html/css,reactjs,algorithms and frameworks",bangalore
+665,Divya,Sonam,6240576721,29,6,divyasonam@gmail.com,frontend developer,"html/css,controls and frameworks ,c/javascript/python",kochi
+666,Alka,Rajat,8635343032,31,3,alkarajat@gmail.com,ai/ml architect,"machine learning expertise,networking and data centres,dbms",hyderabad
+667,Rajesh,Mahesh,6929470611,29,3,rajeshmahesh@gmail.com,machine learning engineer,"mathematics and statistics,dbms,c/javascript/python",gujarat
+668,Arvind,Akshara,6717716213,33,10,arvindakshara@gmail.com,data scientist,"python,networking and data centres, hr management knowledge and expertise",mumbai
+669,Pranav,Marie,8626873881,25,2,pranavmarie@gmail.com,ai/ml architect,"machine learning expertise,flask,cloud",gujarat
+670,Shruti,Bobby,8647723957,29,6,shrutibobby@gmail.com,cloud architect,"operating systems,controls and frameworks ,c/javascript/python",hyderabad
+671,Shilpa,Vijay,9754429156,23,0,shilpavijay@gmail.com,iot solutions architect,"api automation and testing ,flask,java/python",mumbai
+672,Alice,Parul,8162367413,35,3,aliceparul@gmail.com,hr,"communication skills,operating systems,java/python",jaipur
+673,Riya,Rahul,8401275948,31,8,riyarahul@gmail.com,frontend developer,"html/css,flask,ai/ml",bangalore
+674,Sanjay,Kajal,6172069251,34,10,sanjaykajal@gmail.com,security analyst," network security control,big data,ci/cd pipelines",kochi
+675,Shubham,Anjana,9463764365,27,1,shubhamanjana@gmail.com,hr,"communication skills,controls and frameworks ,javascript",mumbai
+676,Pooja,Savita,6214222697,23,0,poojasavita@gmail.com,iot solutions architect,"api automation and testing ,node.js, hr management knowledge and expertise",pune
+677,Kayla,Priyanka,9358347187,26,3,kaylapriyanka@gmail.com,iot solutions architect,"api automation and testing ,big data,java/python",chennai
+678,Ravi,Raghav,8759049968,30,7,raviraghav@gmail.com,devops engineer,"linux ,big data,java/python",hyderabad
+679,Pradeep,Harsh,6550107364,30,7,pradeepharsh@gmail.com,cyber security,"scripting,controls and frameworks , hr management knowledge and expertise",jaipur
+680,Kayla,Shruti,6995726805,34,10,kaylashruti@gmail.com,security analyst," network security control, data structures,java/python",hyderabad
+681,Kavita,Aarti,8510275896,31,8,kavitaaarti@gmail.com,hr,"communication skills,operating systems,ci/cd pipelines",pune
+682,Mahesh,Priyanka,6505758283,33,3,maheshpriyanka@gmail.com,data scientist,"python,data analysis and visualization,pipeline planning",hyderabad
+683,Riya,Kajal,9945524955,27,1,riyakajal@gmail.com,devops engineer,"linux ,networking and data centres,c/javascript/python",delhi
+684,Marie,Akshara,9318243879,28,5,marieakshara@gmail.com,hr,"communication skills, administrative expertise,dbms",pune
+685,Akshara,Sanjay,6403700229,23,0,aksharasanjay@gmail.com,cloud architect,"operating systems,controls and frameworks ,ai/ml",mangalore
+686,Anjana,Pooja,9860150279,35,10,anjanapooja@gmail.com,iot solutions architect,"api automation and testing ,reactjs,java/python",mumbai
+687,Gaurav,Deepak,9893061470,23,0,gauravdeepak@gmail.com,blockchain engineer,"cryptography,big data, hr management knowledge and expertise",bangalore
+688,Shilpa,Rajesh,9112958757,29,6,shilparajesh@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,data mining",mumbai
+689,Rajesh,Juhi,8649155475,26,3,rajeshjuhi@gmail.com,cyber security,"scripting,data analysis and visualization,algorithms and frameworks",mumbai
+690,Juhi,Riya,6506056804,31,3,juhiriya@gmail.com,cyber security,"scripting,reactjs, hr management knowledge and expertise",kochi
+691,Bob,Aanya,6891831242,34,10,bobaanya@gmail.com,devops engineer,"linux ,operating systems,java/python",gujarat
+692,Arvind,Manoj,9486540988,23,0,arvindmanoj@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,intrusion detection",gujarat
+693,Alka,Meera,9750486194,26,0,alkameera@gmail.com,cloud architect,"operating systems,python,data mining",hyderabad
+694,Aarti,Ashish,8321039166,32,3,aartiashish@gmail.com,devops engineer,"linux ,big data,cloud",mumbai
+695,Naresh,Ritu,6147690995,24,1,nareshritu@gmail.com,cyber security,"scripting,node.js,intrusion detection",mumbai
+696,Sonam,Rinku,6957411417,29,3,sonamrinku@gmail.com,hr,"communication skills,operating systems,ai/ml",mangalore
+697,Alice,John,8812567931,25,2,alicejohn@gmail.com,devops engineer,"linux ,dbms,cloud",gujarat
+698,Alexis,Mahesh,6535758473,27,4,alexismahesh@gmail.com,cyber security,"scripting,node.js,algorithms and frameworks",jaipur
+699,Mahesh,Sanjay,6742723682,35,3,maheshsanjay@gmail.com,machine learning engineer,"mathematics and statistics,node.js,javascript",mumbai
+700,Tanisha,Sunita,9316231229,26,3,tanishasunita@gmail.com,cloud architect,"operating systems,flask,ci/cd pipelines",jaipur
+701,Kavita,Renu,9481443754,28,2,kavitarenu@gmail.com,frontend developer,"html/css,data analysis and visualization,javascript",mumbai
+702,Sanjay,Amit,6114884954,25,2,sanjayamit@gmail.com,cloud architect,"operating systems,dbms,java/python",mumbai
+703,Neetu,Dinesh,9807172110,34,10,neetudinesh@gmail.com,cyber security,"scripting, administrative expertise,ci/cd pipelines",gujarat
+704,Sunita,Rajat,9545829565,34,3,sunitarajat@gmail.com,devops engineer,"linux , data structures,ai/ml",jaipur
+705,Anjana,Eugene,8956075343,24,1,anjanaeugene@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,pipeline planning",chennai
+706,Suman,Kavita,8612093763,34,3,sumankavita@gmail.com,cyber security,"scripting,data analysis and visualization,cloud",mumbai
+707,Sunil,Mahesh,6624530958,29,6,sunilmahesh@gmail.com,cyber security,"scripting,node.js,javascript",mumbai
+708,Kajal,Russell,6302913924,28,5,kajalrussell@gmail.com,cloud architect,"operating systems,networking and data centres,algorithms and frameworks",gujarat
+709,Vandana,Mahesh,6895770299,34,10,vandanamahesh@gmail.com,data scientist,"python,flask,intrusion detection",hyderabad
+710,Ralph,Abhinav,9932769640,34,3,ralphabhinav@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,javascript",mumbai
+711,Priyanka,Naresh,8312010271,31,8,priyankanaresh@gmail.com,hr,"communication skills,dbms, hr management knowledge and expertise",pune
+712,Vinay,Satish,9389777428,35,10,vinaysatish@gmail.com,devops engineer,"linux ,operating systems,java/python",jaipur
+713,Vidya,Vidya,6647321176,27,1,vidyavidya@gmail.com,cloud architect,"operating systems,flask,ci/cd pipelines",calcutta
+714,Parul,Raghav,8302235227,23,0,parulraghav@gmail.com,machine learning engineer,"mathematics and statistics, data structures,data mining",pune
+715,Nisha,Ralph,9690909501,27,4,nisharalph@gmail.com,iot solutions architect,"api automation and testing ,reactjs,cloud",calcutta
+716,Pooja,Rajesh,6835092780,24,1,poojarajesh@gmail.com,cloud architect,"operating systems,data analysis and visualization,c/javascript/python",hyderabad
+717,Raghav,Prakash,9491115961,31,8,raghavprakash@gmail.com,machine learning engineer,"mathematics and statistics,node.js,cloud",calcutta
+718,Sweta,Sunil,9942605327,34,10,swetasunil@gmail.com,cloud architect,"operating systems,data analysis and visualization,javascript",kochi
+719,Neetu,Manish,8780705891,23,0,neetumanish@gmail.com,iot solutions architect,"api automation and testing ,dbms,pipeline planning",bangalore
+720,Amit,Kavita,9458377321,31,3,amitkavita@gmail.com,frontend developer,"html/css,node.js,cloud",pune
+721,Rinku,Rakesh,6964430569,26,0,rinkurakesh@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,pipeline planning",delhi
+722,Akshara,Anika,6625802947,24,1,aksharaanika@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,cloud",mumbai
+723,Sandeep,Rohan,9128152031,31,3,sandeeprohan@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,java/python",pune
+724,Payal,Vandana,6769154913,25,0,payalvandana@gmail.com,hr,"communication skills,python,cloud",jaipur
+725,Reena,Manoj,9539188350,32,9,reenamanoj@gmail.com,ai/ml architect,"machine learning expertise,python,intrusion detection",chennai
+726,Santosh,Meera,8653399016,32,3,santoshmeera@gmail.com,devops engineer,"linux ,data analysis and visualization,java/python",hyderabad
+727,Mohan,Ashish,6195292299,33,10,mohanashish@gmail.com,frontend developer,"html/css,flask,javascript",calcutta
+728,Manish,Pranav,9159471936,35,3,manishpranav@gmail.com,security analyst," network security control, administrative expertise,ci/cd pipelines",chennai
+729,Eugene,Russell,6449263786,30,3,eugenerussell@gmail.com,ai/ml architect,"machine learning expertise,controls and frameworks ,cloud",calcutta
+730,Philip,Riya,9918248977,34,3,philipriya@gmail.com,data scientist,"python,python,ci/cd pipelines",mumbai
+731,Vijay,Priya,9891708531,31,8,vijaypriya@gmail.com,frontend developer,"html/css,node.js,ai/ml",bangalore
+732,Kavita,Manoj,9821187559,28,5,kavitamanoj@gmail.com,blockchain engineer,"cryptography,dbms,data mining",kochi
+733,Avinash,Raju,8462664912,25,2,avinashraju@gmail.com,devops engineer,"linux ,operating systems,pipeline planning",chennai
+734,Raghav,Suman,6564574332,26,0,raghavsuman@gmail.com,blockchain engineer,"cryptography, data structures,javascript",mumbai
+735,Akshara,Mahesh,9737838959,24,0,aksharamahesh@gmail.com,cyber security,"scripting,reactjs,cloud",delhi
+736,Ajay,Marie,6354510419,31,8,ajaymarie@gmail.com,iot solutions architect,"api automation and testing ,big data,algorithms and frameworks",mangalore
+737,Priya,Reena,6856774823,24,0,priyareena@gmail.com,data scientist,"python,python,ci/cd pipelines",kochi
+738,Ravi,Ashish,9363636064,33,10,raviashish@gmail.com,data scientist,"python, data structures,ai/ml",mangalore
+739,Vinod,Sheetal,6739408106,25,2,vinodsheetal@gmail.com,cloud architect,"operating systems,data analysis and visualization,ai/ml",mumbai
+740,Rohit,Bradley,8932169020,27,1,rohitbradley@gmail.com,cyber security,"scripting,controls and frameworks ,ci/cd pipelines",mangalore
+741,Rajat,Riyaan,6499760467,32,9,rajatriyaan@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,algorithms and frameworks",pune
+742,Lori,Anika,9673611851,31,3,lorianika@gmail.com,data scientist,"python,networking and data centres,algorithms and frameworks",gujarat
+743,Sweta,Sweta,8180238677,33,3,swetasweta@gmail.com,blockchain engineer,"cryptography,operating systems,dbms",calcutta
+744,Nisha,Dinesh,6985224540,35,3,nishadinesh@gmail.com,devops engineer,"linux ,networking and data centres,ci/cd pipelines",pune
+745,Tanvi,Gaurav,8915588709,32,3,tanvigaurav@gmail.com,cloud architect,"operating systems,flask,dbms",gujarat
+746,Reena,Vivek,6946437029,30,3,reenavivek@gmail.com,frontend developer,"html/css,networking and data centres,c/javascript/python",delhi
+747,Mahesh,Raju,6577592710,34,3,maheshraju@gmail.com,security analyst," network security control,reactjs,dbms",hyderabad
+748,Alexis,Ananya,6320682761,30,7,alexisananya@gmail.com,iot solutions architect,"api automation and testing ,big data,java/python",mumbai
+749,Anjana,Suman,9987518204,32,9,anjanasuman@gmail.com,cyber security,"scripting,operating systems,ci/cd pipelines",kochi
+750,Riya,Vandana,9533105859,34,10,riyavandana@gmail.com,frontend developer,"html/css,dbms,algorithms and frameworks",jaipur
+751,Manish,Shivangi,8844033607,26,3,manishshivangi@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,cloud",kochi
+752,Vandana,Alexis,9673913577,25,2,vandanaalexis@gmail.com,ai/ml architect,"machine learning expertise,node.js,ai/ml",kochi
+753,Arvind,Aarti,9507411267,33,3,arvindaarti@gmail.com,cyber security,"scripting,data analysis and visualization,ai/ml",mumbai
+754,Raghav,Anjana,8277577942,31,3,raghavanjana@gmail.com,cyber security,"scripting, data structures,cloud",bangalore
+755,Sangeeta,Bradley,8568829523,26,0,sangeetabradley@gmail.com,cyber security,"scripting, data structures,algorithms and frameworks",mumbai
+756,Aanya,Eve,9800116984,33,10,aanyaeve@gmail.com,iot solutions architect,"api automation and testing ,python,dbms",bangalore
+757,Shubham,Marie,6110735251,28,2,shubhammarie@gmail.com,machine learning engineer,"mathematics and statistics,dbms,algorithms and frameworks",mangalore
+758,Vandana,Dinesh,9261857529,32,3,vandanadinesh@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,algorithms and frameworks",mumbai
+759,Ashish,Vikas,6157592774,33,3,ashishvikas@gmail.com,frontend developer,"html/css,networking and data centres, hr management knowledge and expertise",pune
+760,Ramesh,Sandeep,6732811023,26,3,rameshsandeep@gmail.com,cyber security,"scripting,dbms,pipeline planning",gujarat
+761,Anjana,Vinay,8642195113,31,8,anjanavinay@gmail.com,data scientist,"python, administrative expertise,algorithms and frameworks",delhi
+762,Pradeep,Tanisha,9497754390,33,10,pradeeptanisha@gmail.com,devops engineer,"linux ,flask,cloud",delhi
+763,Sunil,Prakash,8935104082,24,1,sunilprakash@gmail.com,data scientist,"python,flask,javascript",pune
+764,Suresh,Alka,6319908132,28,5,sureshalka@gmail.com,data scientist,"python,dbms,ai/ml",pune
+765,Bradley,Riyaan,9202130567,33,10,bradleyriyaan@gmail.com,frontend developer,"html/css,flask,java/python",chennai
+766,Pooja,Sangeeta,9810475378,32,9,poojasangeeta@gmail.com,cloud architect,"operating systems,networking and data centres,pipeline planning",gujarat
+767,Kirti,Riya,6733865119,35,3,kirtiriya@gmail.com,hr,"communication skills,dbms,pipeline planning",delhi
+768,Mahesh,Ravi,9783502752,29,3,maheshravi@gmail.com,cyber security,"scripting,dbms,java/python",bangalore
+769,Akshara,Roshni,9629721606,29,6,akshararoshni@gmail.com,machine learning engineer,"mathematics and statistics,python,c/javascript/python",mumbai
+770,Parul,Bhavna,9466300382,35,3,parulbhavna@gmail.com,ai/ml architect,"machine learning expertise,python,dbms",mangalore
+771,Ria,Ralph,9799446060,23,0,riaralph@gmail.com,data scientist,"python,networking and data centres,dbms",mumbai
+772,Prakash,Priyanka,9139430700,25,0,prakashpriyanka@gmail.com,iot solutions architect,"api automation and testing ,data analysis and visualization,ci/cd pipelines",mangalore
+773,Neeraj,Naresh,9806839993,31,8,neerajnaresh@gmail.com,ai/ml architect,"machine learning expertise,flask,c/javascript/python",mangalore
+774,Riyaan,Avinash,9771759905,24,1,riyaanavinash@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,java/python",delhi
+775,Alexis,Alexis,6860187507,28,5,alexisalexis@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,javascript",bangalore
+776,Alexis,Kajal,9292232525,33,10,alexiskajal@gmail.com,hr,"communication skills,flask,java/python",chennai
+777,Shilpa,Arvind,8343350548,32,9,shilpaarvind@gmail.com,devops engineer,"linux ,python,c/javascript/python",mangalore
+778,Ralph,Priya,8620416334,32,3,ralphpriya@gmail.com,iot solutions architect,"api automation and testing ,python, hr management knowledge and expertise",mumbai
+779,Eugene,Ananya,9939649503,34,10,eugeneananya@gmail.com,frontend developer,"html/css,flask,java/python",chennai
+780,Vijay,Ajay,6777437990,35,10,vijayajay@gmail.com,security analyst," network security control,reactjs,pipeline planning",calcutta
+781,Ravi,Ralph,6523757529,28,5,raviralph@gmail.com,hr,"communication skills,controls and frameworks ,ai/ml",mumbai
+782,Sandeep,Rajat,8880409826,30,3,sandeeprajat@gmail.com,security analyst," network security control,data analysis and visualization,ci/cd pipelines",delhi
+783,Tanisha,Kayla,8906045703,27,1,tanishakayla@gmail.com,hr,"communication skills,dbms,javascript",mangalore
+784,Deepak,Ananya,6514849061,35,10,deepakananya@gmail.com,machine learning engineer,"mathematics and statistics,operating systems, hr management knowledge and expertise",pune
+785,Kavita,Alexis,8721813710,30,3,kavitaalexis@gmail.com,hr,"communication skills,data analysis and visualization,java/python",chennai
+786,Bradley,Subhash,9930337017,28,5,bradleysubhash@gmail.com,data scientist,"python,operating systems,intrusion detection",mumbai
+787,Savita,Anjali,6661827684,28,5,savitaanjali@gmail.com,hr,"communication skills,python,c/javascript/python",delhi
+788,Abhinav,Ralph,9613876585,30,7,abhinavralph@gmail.com,data scientist,"python, data structures,dbms",mangalore
+789,Ankita,Kavita,8755761826,23,0,ankitakavita@gmail.com,hr,"communication skills,python,dbms",chennai
+790,Doris,Alka,8258038236,30,7,dorisalka@gmail.com,iot solutions architect,"api automation and testing ,dbms,c/javascript/python",kochi
+791,Russell,Sumit,6667475296,28,5,russellsumit@gmail.com,frontend developer,"html/css,flask,pipeline planning",chennai
+792,Vandana,Pradeep,9508813107,31,3,vandanapradeep@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,c/javascript/python",delhi
+793,Sunita,Pranav,8739440806,32,3,sunitapranav@gmail.com,data scientist,"python,dbms,data mining",mumbai
+794,Akshara,Shilpa,8590756788,25,2,aksharashilpa@gmail.com,iot solutions architect,"api automation and testing , administrative expertise, hr management knowledge and expertise",calcutta
+795,Riya,Shivangi,6762209580,31,3,riyashivangi@gmail.com,security analyst," network security control,reactjs,dbms",chennai
+796,Riya,Ishita,8818512128,27,1,riyaishita@gmail.com,iot solutions architect,"api automation and testing ,python,intrusion detection",pune
+797,Ashish,Naresh,8351653163,33,3,ashishnaresh@gmail.com,frontend developer,"html/css, administrative expertise,cloud",mumbai
+798,Rajat,Harsh,6952048118,30,7,rajatharsh@gmail.com,blockchain engineer,"cryptography,operating systems,dbms",mangalore
+799,Kavita,Pranav,6449263044,27,1,kavitapranav@gmail.com,iot solutions architect,"api automation and testing ,python,c/javascript/python",mumbai
+800,Eve,Divya,8490731378,27,4,evedivya@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,dbms",jaipur
+801,Sunil,Sheetal,6958010765,24,0,sunilsheetal@gmail.com,cyber security,"scripting,data analysis and visualization,c/javascript/python",jaipur
+802,Vijay,Subhash,9104931935,33,10,vijaysubhash@gmail.com,hr,"communication skills,networking and data centres,cloud",pune
+803,Anjali,Sonam,8525524506,25,0,anjalisonam@gmail.com,ai/ml architect,"machine learning expertise,reactjs,algorithms and frameworks",pune
+804,Kajal,Kayla,6304926341,26,0,kajalkayla@gmail.com,security analyst," network security control,data analysis and visualization,java/python",hyderabad
+805,Shilpa,Parul,8242982800,26,3,shilpaparul@gmail.com,hr,"communication skills,node.js,ai/ml",mumbai
+806,Shubham,Sanjana,9254243059,27,4,shubhamsanjana@gmail.com,data scientist,"python,controls and frameworks ,cloud",pune
+807,Avinash,Anjana,6350652427,26,0,avinashanjana@gmail.com,frontend developer,"html/css,controls and frameworks ,cloud",kochi
+808,Eve,Parul,9128027646,26,0,eveparul@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,ai/ml",kochi
+809,Anjana,Satish,6265357729,23,0,anjanasatish@gmail.com,data scientist,"python, data structures,javascript",jaipur
+810,Payal,Alexis,6566011293,26,3,payalalexis@gmail.com,cyber security,"scripting,reactjs,algorithms and frameworks",jaipur
+811,Ashish,Abhinav,8221439011,29,6,ashishabhinav@gmail.com,security analyst," network security control,dbms,algorithms and frameworks",pune
+812,Ralph,Bob,8765499717,25,2,ralphbob@gmail.com,machine learning engineer,"mathematics and statistics,networking and data centres,javascript",delhi
+813,Payal,Manoj,9250080758,26,0,payalmanoj@gmail.com,devops engineer,"linux ,controls and frameworks ,ai/ml",bangalore
+814,Roshni,Riyaan,8726600771,26,0,roshniriyaan@gmail.com,hr,"communication skills,node.js,ci/cd pipelines",delhi
+815,Naresh,Anika,9114322364,23,0,nareshanika@gmail.com,data scientist,"python,reactjs,javascript",mumbai
+816,Bob,Rajat,8675471703,26,3,bobrajat@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,java/python",jaipur
+817,Kavita,Arvind,8602102281,27,4,kavitaarvind@gmail.com,data scientist,"python,node.js,pipeline planning",mangalore
+818,Rohit,Meera,8344401918,34,10,rohitmeera@gmail.com,security analyst," network security control, data structures,ai/ml",mumbai
+819,Abhinav,Ravi,6534306529,29,6,abhinavravi@gmail.com,cyber security,"scripting,big data, hr management knowledge and expertise",calcutta
+820,Roshni,Sumit,8749421089,30,7,roshnisumit@gmail.com,devops engineer,"linux , administrative expertise,c/javascript/python",mumbai
+821,Tanvi,Shruti,9657394087,26,3,tanvishruti@gmail.com,data scientist,"python,data analysis and visualization,data mining",jaipur
+822,Lori,Suresh,9972249599,24,0,lorisuresh@gmail.com,frontend developer,"html/css, administrative expertise,java/python",pune
+823,Avinash,Ria,8972534255,33,3,avinashria@gmail.com,hr,"communication skills,python,pipeline planning",jaipur
+824,Parul,Rajat,8135914672,24,1,parulrajat@gmail.com,iot solutions architect,"api automation and testing ,node.js,cloud",delhi
+825,Vinod,Savita,6392655170,23,0,vinodsavita@gmail.com,hr,"communication skills,python,pipeline planning",mumbai
+826,Bhavna,Vikas,9184758567,25,0,bhavnavikas@gmail.com,frontend developer,"html/css,dbms,ci/cd pipelines",mumbai
+827,Aarav,Sanjana,6956407341,34,10,aaravsanjana@gmail.com,cloud architect,"operating systems,data analysis and visualization,algorithms and frameworks",chennai
+828,Ralph,Riyaan,6852303493,31,3,ralphriyaan@gmail.com,cyber security,"scripting,data analysis and visualization,ai/ml",calcutta
+829,Pranav,Deepak,9264461303,26,0,pranavdeepak@gmail.com,iot solutions architect,"api automation and testing ,node.js,ci/cd pipelines",delhi
+830,Bradley,Shivangi,8739908997,33,3,bradleyshivangi@gmail.com,ai/ml architect,"machine learning expertise,networking and data centres, hr management knowledge and expertise",hyderabad
+831,Shubham,Juhi,9704681561,31,8,shubhamjuhi@gmail.com,blockchain engineer,"cryptography,dbms,data mining",mumbai
+832,Neetu,Prakash,9792171011,34,3,neetuprakash@gmail.com,blockchain engineer,"cryptography,big data,algorithms and frameworks",calcutta
+833,Prakash,Suresh,9719140616,29,6,prakashsuresh@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,pipeline planning",calcutta
+834,Riya,Raghav,6482628842,35,10,riyaraghav@gmail.com,security analyst," network security control,operating systems, hr management knowledge and expertise",gujarat
+835,Bradley,Vikas,8398030279,30,7,bradleyvikas@gmail.com,blockchain engineer,"cryptography, administrative expertise,pipeline planning",gujarat
+836,Priya,Amit,6999024085,31,8,priyaamit@gmail.com,security analyst," network security control,networking and data centres,c/javascript/python",gujarat
+837,Ravi,Vikas,8816501509,34,3,ravivikas@gmail.com,cloud architect,"operating systems,node.js,intrusion detection",chennai
+838,Ria,Bhavna,8215720252,27,1,riabhavna@gmail.com,blockchain engineer,"cryptography, data structures,ai/ml",calcutta
+839,Raghav,Ravi,8850096525,30,3,raghavravi@gmail.com,machine learning engineer,"mathematics and statistics,big data,pipeline planning",mumbai
+840,Lori,Abhinav,8535272680,27,1,loriabhinav@gmail.com,blockchain engineer,"cryptography,python,c/javascript/python",jaipur
+841,Russell,Renu,9381826524,32,3,russellrenu@gmail.com,frontend developer,"html/css,python,c/javascript/python",mangalore
+842,Renu,Pradeep,9113687461,24,0,renupradeep@gmail.com,data scientist,"python,reactjs,pipeline planning",calcutta
+843,Rahul,Rahul,6922520320,27,1,rahulrahul@gmail.com,security analyst," network security control,reactjs,ai/ml",bangalore
+844,Mohan,Kavita,6358969074,25,2,mohankavita@gmail.com,data scientist,"python,dbms,cloud",kochi
+845,Vikas,Raghav,6969288401,29,3,vikasraghav@gmail.com,blockchain engineer,"cryptography,node.js,algorithms and frameworks",calcutta
+846,Doris,Sumit,8753043585,26,3,dorissumit@gmail.com,iot solutions architect,"api automation and testing ,controls and frameworks ,algorithms and frameworks",delhi
+847,Pramod,Vandana,9893847327,29,6,pramodvandana@gmail.com,cloud architect,"operating systems,data analysis and visualization,cloud",hyderabad
+848,Sunil,Shubham,9299382699,32,3,sunilshubham@gmail.com,frontend developer,"html/css, administrative expertise,data mining",jaipur
+849,Philip,Shilpa,6331126054,23,0,philipshilpa@gmail.com,security analyst," network security control, administrative expertise,c/javascript/python",gujarat
+850,Shruti,Satish,8541978061,31,8,shrutisatish@gmail.com,cyber security,"scripting,networking and data centres, hr management knowledge and expertise",mumbai
+851,Pramod,Kirti,9679389104,28,5,pramodkirti@gmail.com,security analyst," network security control,node.js,c/javascript/python",hyderabad
+852,Kirti,Arjun,9110730774,24,1,kirtiarjun@gmail.com,cyber security,"scripting,operating systems,algorithms and frameworks",kochi
+853,Riya,Manish,9732420667,28,5,riyamanish@gmail.com,machine learning engineer,"mathematics and statistics,operating systems,pipeline planning",gujarat
+854,Meera,Vikas,9633957181,23,0,meeravikas@gmail.com,blockchain engineer,"cryptography,big data,pipeline planning",mangalore
+855,Pradeep,Riya,6507436556,25,2,pradeepriya@gmail.com,data scientist,"python,networking and data centres,pipeline planning",mumbai
+856,Vijay,Rohan,8211851087,27,1,vijayrohan@gmail.com,security analyst," network security control, administrative expertise,pipeline planning",kochi
+857,Sunil,Mohan,8306990305,34,3,sunilmohan@gmail.com,machine learning engineer,"mathematics and statistics,dbms,cloud",bangalore
+858,Reena,Riya,6595605931,26,0,reenariya@gmail.com,machine learning engineer,"mathematics and statistics, data structures,java/python",mangalore
+859,Tanisha,Anika,8679768483,31,8,tanishaanika@gmail.com,ai/ml architect,"machine learning expertise,flask,pipeline planning",pune
+860,Savita,Raghav,8367372496,33,10,savitaraghav@gmail.com,data scientist,"python,operating systems,cloud",jaipur
+861,Vidya,Subhash,6750521148,29,3,vidyasubhash@gmail.com,iot solutions architect,"api automation and testing , data structures, hr management knowledge and expertise",chennai
+862,Roshni,Santosh,9374247175,29,3,roshnisantosh@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,c/javascript/python",kochi
+863,Bob,Sanjay,9982278464,30,3,bobsanjay@gmail.com,devops engineer,"linux ,flask,javascript",gujarat
+864,Kavita,Shivangi,9516134151,35,3,kavitashivangi@gmail.com,devops engineer,"linux ,flask,pipeline planning",delhi
+865,Vikas,Vivek,6482230326,35,3,vikasvivek@gmail.com,cyber security,"scripting, data structures,ci/cd pipelines",mumbai
+866,Vinod,Priyanka,9380719224,30,3,vinodpriyanka@gmail.com,frontend developer,"html/css,python,javascript",mumbai
+867,Gaurav,Alka,9226673439,34,3,gauravalka@gmail.com,data scientist,"python,reactjs,pipeline planning",kochi
+868,Mukesh,Ria,9391117808,28,2,mukeshria@gmail.com,iot solutions architect,"api automation and testing , administrative expertise,intrusion detection",chennai
+869,Vikas,Anjali,9413678452,29,6,vikasanjali@gmail.com,blockchain engineer,"cryptography, data structures,ai/ml",mangalore
+870,Bhavna,Anika,6723783290,35,10,bhavnaanika@gmail.com,data scientist,"python,networking and data centres,pipeline planning",mumbai
+871,Sonam,Doris,8601553326,30,7,sonamdoris@gmail.com,blockchain engineer,"cryptography, administrative expertise,javascript",bangalore
+872,Raju,Rajesh,9994709686,34,10,rajurajesh@gmail.com,blockchain engineer,"cryptography,flask, hr management knowledge and expertise",jaipur
+873,Sanjay,Bobby,6735116899,25,0,sanjaybobby@gmail.com,blockchain engineer,"cryptography,dbms,javascript",mumbai
+874,Riyaan,Ria,8442550348,33,3,riyaanria@gmail.com,data scientist,"python, data structures,ai/ml",delhi
+875,Shivangi,Raghav,6779319380,28,2,shivangiraghav@gmail.com,cloud architect,"operating systems,networking and data centres,ai/ml",mumbai
+876,Ashish,Amit,9940352142,26,3,ashishamit@gmail.com,blockchain engineer,"cryptography,networking and data centres,c/javascript/python",pune
+877,Rajat,Divya,8376361396,24,1,rajatdivya@gmail.com,hr,"communication skills, data structures,javascript",bangalore
+878,Raju,Arvind,8284386323,30,3,rajuarvind@gmail.com,devops engineer,"linux ,data analysis and visualization,data mining",mumbai
+879,Riya,Kayla,6880430741,32,9,riyakayla@gmail.com,iot solutions architect,"api automation and testing ,big data, hr management knowledge and expertise",pune
+880,Alka,Kavita,8961300828,23,0,alkakavita@gmail.com,ai/ml architect,"machine learning expertise,controls and frameworks ,cloud",mumbai
+881,Rinku,Gaurav,8763886168,32,3,rinkugaurav@gmail.com,security analyst," network security control,reactjs,pipeline planning",mumbai
+882,Sangeeta,Ramesh,6604818516,28,2,sangeetaramesh@gmail.com,data scientist,"python,reactjs,ai/ml",bangalore
+883,Abhinav,Renu,8485926539,25,0,abhinavrenu@gmail.com,cyber security,"scripting, data structures,intrusion detection",gujarat
+884,Vandana,Vandana,6795783374,29,3,vandanavandana@gmail.com,blockchain engineer,"cryptography, data structures,c/javascript/python",jaipur
+885,Aarti,Sumit,8803967829,35,3,aartisumit@gmail.com,security analyst," network security control,flask,java/python",bangalore
+886,Ria,Savita,8970485316,25,0,riasavita@gmail.com,blockchain engineer,"cryptography,networking and data centres,java/python",hyderabad
+887,Eugene,Alka,6807459246,32,3,eugenealka@gmail.com,data scientist,"python,dbms,c/javascript/python",chennai
+888,Alka,Alka,8878164630,29,3,alkaalka@gmail.com,frontend developer,"html/css,big data,intrusion detection",mumbai
+889,Suman,Gaurav,6530104468,33,3,sumangaurav@gmail.com,cloud architect,"operating systems,reactjs,dbms",jaipur
+890,Rajesh,Rahul,8904218713,32,3,rajeshrahul@gmail.com,data scientist,"python,operating systems,pipeline planning",mumbai
+891,Aanya,Suman,9728977306,29,3,aanyasuman@gmail.com,frontend developer,"html/css,data analysis and visualization,c/javascript/python",kochi
+892,Aarti,Rajendra,8151426208,28,2,aartirajendra@gmail.com,machine learning engineer,"mathematics and statistics,node.js,ai/ml",pune
+893,Bhavna,Mahesh,9607411974,27,1,bhavnamahesh@gmail.com,devops engineer,"linux ,data analysis and visualization,data mining",mangalore
+894,Lori,Priyanka,6610091351,34,10,loripriyanka@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization, hr management knowledge and expertise",pune
+895,Amit,Rakesh,8719607126,30,7,amitrakesh@gmail.com,cloud architect,"operating systems,flask,dbms",chennai
+896,Vinod,Bradley,6237329074,34,3,vinodbradley@gmail.com,cloud architect,"operating systems,flask,c/javascript/python",kochi
+897,Kamal,Rajesh,9157262353,33,10,kamalrajesh@gmail.com,devops engineer,"linux ,python,ai/ml",mumbai
+898,Kajal,Raju,6849093095,31,3,kajalraju@gmail.com,ai/ml architect,"machine learning expertise, data structures,dbms",delhi
+899,Shilpa,Russell,6918081743,24,0,shilparussell@gmail.com,data scientist,"python, administrative expertise,c/javascript/python",hyderabad
+900,Meera,Roshni,6104794068,29,6,meeraroshni@gmail.com,cyber security,"scripting,operating systems,algorithms and frameworks",gujarat
+901,Divya,Abhinav,8288081754,31,8,divyaabhinav@gmail.com,frontend developer,"html/css,reactjs,ai/ml",kochi
+902,Anjana,Pradeep,9689333158,26,0,anjanapradeep@gmail.com,cloud architect,"operating systems,networking and data centres, hr management knowledge and expertise",bangalore
+903,Vinod,Vivek,9694966270,27,4,vinodvivek@gmail.com,cyber security,"scripting,reactjs,java/python",kochi
+904,Vivek,Tanisha,9900293202,28,5,vivektanisha@gmail.com,cyber security,"scripting,node.js,pipeline planning",calcutta
+905,Vikas,Ankita,6605969020,28,2,vikasankita@gmail.com,frontend developer,"html/css,reactjs,algorithms and frameworks",mangalore
+906,Vidya,Ritu,8767637782,27,4,vidyaritu@gmail.com,cyber security,"scripting, data structures, hr management knowledge and expertise",gujarat
+907,Riya,Rakesh,6972983539,24,1,riyarakesh@gmail.com,data scientist,"python, administrative expertise,data mining",hyderabad
+908,Priyanka,Rinku,8387318694,29,6,priyankarinku@gmail.com,devops engineer,"linux ,networking and data centres,javascript",bangalore
+909,Vinay,Naresh,9652284961,29,6,vinaynaresh@gmail.com,cloud architect,"operating systems,controls and frameworks , hr management knowledge and expertise",calcutta
+910,Mohan,Parul,9732707634,30,7,mohanparul@gmail.com,machine learning engineer,"mathematics and statistics,networking and data centres,pipeline planning",mangalore
+911,Shubham,Alka,9131385992,28,5,shubhamalka@gmail.com,iot solutions architect,"api automation and testing ,flask,ci/cd pipelines",calcutta
+912,Suresh,Manoj,9474415920,34,3,sureshmanoj@gmail.com,iot solutions architect,"api automation and testing ,operating systems,intrusion detection",calcutta
+913,Harsh,Sonam,9719037066,28,5,harshsonam@gmail.com,data scientist,"python,dbms,ci/cd pipelines",chennai
+914,Anjana,Kamal,6148387350,27,1,anjanakamal@gmail.com,devops engineer,"linux ,data analysis and visualization,data mining",bangalore
+915,Sanjay,Vidya,9624604524,31,3,sanjayvidya@gmail.com,frontend developer,"html/css,python,algorithms and frameworks",kochi
+916,Rinku,Amit,6827590794,31,8,rinkuamit@gmail.com,security analyst," network security control,dbms,intrusion detection",delhi
+917,Shilpa,Tanvi,9506398095,28,2,shilpatanvi@gmail.com,frontend developer,"html/css,dbms,dbms",delhi
+918,Sanjana,Bobby,6789564670,31,8,sanjanabobby@gmail.com,devops engineer,"linux , administrative expertise,dbms",pune
+919,Ankita,Sumit,6982807994,31,3,ankitasumit@gmail.com,cloud architect,"operating systems,operating systems,java/python",mangalore
+920,Kavita,Ria,9352079326,33,10,kavitaria@gmail.com,machine learning engineer,"mathematics and statistics,controls and frameworks ,intrusion detection",delhi
+921,Rahul,Alice,6117390940,24,1,rahulalice@gmail.com,blockchain engineer,"cryptography,big data,data mining",mumbai
+922,Prakash,Alexis,9181674754,23,0,prakashalexis@gmail.com,iot solutions architect,"api automation and testing ,dbms,algorithms and frameworks",pune
+923,Suresh,Gaurav,6802247227,24,0,sureshgaurav@gmail.com,cloud architect,"operating systems, administrative expertise,c/javascript/python",chennai
+924,Meera,Ria,8358330948,26,3,meeraria@gmail.com,ai/ml architect,"machine learning expertise, data structures,java/python",mumbai
+925,Aarti,Ananya,9943955228,31,3,aartiananya@gmail.com,data scientist,"python,big data,pipeline planning",bangalore
+926,Sheetal,Savita,6380893419,32,9,sheetalsavita@gmail.com,machine learning engineer,"mathematics and statistics,big data,ai/ml",chennai
+927,Ralph,Rajesh,8171502645,32,3,ralphrajesh@gmail.com,hr,"communication skills, administrative expertise,pipeline planning",jaipur
+928,Savita,Shivangi,8553958035,30,7,savitashivangi@gmail.com,frontend developer,"html/css, data structures,ci/cd pipelines",mangalore
+929,Vijay,Anjana,9142236452,24,1,vijayanjana@gmail.com,iot solutions architect,"api automation and testing ,dbms,ai/ml",jaipur
+930,Arjun,Vinod,6739497869,29,6,arjunvinod@gmail.com,data scientist,"python, data structures,data mining",mumbai
+931,Shubham,Reena,8284811021,24,1,shubhamreena@gmail.com,security analyst," network security control,flask,java/python",jaipur
+932,Sangeeta,Aarav,9952929546,32,3,sangeetaaarav@gmail.com,blockchain engineer,"cryptography,controls and frameworks ,c/javascript/python",mangalore
+933,Dinesh,Mukesh,8439185803,26,0,dineshmukesh@gmail.com,iot solutions architect,"api automation and testing ,node.js,intrusion detection",chennai
+934,Sumit,Dinesh,9944197592,25,2,sumitdinesh@gmail.com,devops engineer,"linux ,big data,dbms",mangalore
+935,Philip,Vikas,6515853167,35,3,philipvikas@gmail.com,cloud architect,"operating systems, administrative expertise,java/python",mumbai
+936,Ria,Bob,8587492183,25,2,riabob@gmail.com,frontend developer,"html/css, data structures,pipeline planning",kochi
+937,Rajesh,Suman,9103860383,26,0,rajeshsuman@gmail.com,hr,"communication skills,operating systems,c/javascript/python",gujarat
+938,Vidya,Eugene,6525938158,26,0,vidyaeugene@gmail.com,hr,"communication skills,big data,c/javascript/python",mumbai
+939,John,Eugene,8921558085,29,3,johneugene@gmail.com,data scientist,"python,python,pipeline planning",jaipur
+940,Meera,Mohan,8120636804,23,0,meeramohan@gmail.com,frontend developer,"html/css,python,data mining",kochi
+941,Eve,Kajal,9562293095,31,3,evekajal@gmail.com,hr,"communication skills,operating systems,javascript",mangalore
+942,Marie,Sanjana,9358504460,30,7,mariesanjana@gmail.com,hr,"communication skills,dbms,data mining",bangalore
+943,Priyanka,Arvind,9527394434,23,0,priyankaarvind@gmail.com,iot solutions architect,"api automation and testing ,dbms, hr management knowledge and expertise",bangalore
+944,Ashish,Savita,9801717129,28,5,ashishsavita@gmail.com,blockchain engineer,"cryptography,dbms,c/javascript/python",bangalore
+945,Ankita,Rohan,6403404458,30,7,ankitarohan@gmail.com,cloud architect,"operating systems,operating systems,java/python",mumbai
+946,Prakash,Lori,9717610707,35,10,prakashlori@gmail.com,cyber security,"scripting,dbms,javascript",hyderabad
+947,Sumit,Ananya,6431390421,29,3,sumitananya@gmail.com,blockchain engineer,"cryptography,operating systems,cloud",chennai
+948,Neeraj,Sangeeta,8266466552,30,7,neerajsangeeta@gmail.com,devops engineer,"linux ,node.js,pipeline planning",hyderabad
+949,Anjana,Sweta,8641158527,30,3,anjanasweta@gmail.com,machine learning engineer,"mathematics and statistics,data analysis and visualization,data mining",mumbai
+950,Aarav,Vidya,6929561172,25,2,aaravvidya@gmail.com,ai/ml architect,"machine learning expertise,node.js,ai/ml",gujarat
+951,Ritu,Rinku,8748722383,23,0,riturinku@gmail.com,ai/ml architect,"machine learning expertise, administrative expertise,pipeline planning",mangalore
+952,Neetu,Alka,6937886293,29,3,neetualka@gmail.com,cyber security,"scripting,controls and frameworks ,data mining",chennai
+953,Sunil,Alice,6124604590,28,5,sunilalice@gmail.com,iot solutions architect,"api automation and testing ,networking and data centres,c/javascript/python",jaipur
+954,Priya,Shilpa,9845495813,28,5,priyashilpa@gmail.com,cyber security,"scripting,operating systems,java/python",mangalore
+955,Sanjana,Neetu,9228567280,27,1,sanjananeetu@gmail.com,iot solutions architect,"api automation and testing ,big data,ai/ml",pune
+956,Shivangi,Rajendra,9824528262,29,3,shivangirajendra@gmail.com,iot solutions architect,"api automation and testing ,flask,javascript",kochi
+957,Payal,Sheetal,9160121566,24,1,payalsheetal@gmail.com,ai/ml architect,"machine learning expertise,controls and frameworks ,dbms",hyderabad
+958,Bob,Renu,8846251006,24,1,bobrenu@gmail.com,blockchain engineer,"cryptography, administrative expertise,dbms",delhi
+959,Juhi,Rajesh,6898108629,29,3,juhirajesh@gmail.com,ai/ml architect,"machine learning expertise,controls and frameworks ,c/javascript/python",gujarat
+960,Raju,Payal,6671180942,34,10,rajupayal@gmail.com,blockchain engineer,"cryptography, administrative expertise,intrusion detection",delhi
+961,Alice,Vinod,6534085635,32,3,alicevinod@gmail.com,ai/ml architect,"machine learning expertise,data analysis and visualization,dbms",mangalore
+962,Vijay,Vidya,6826390181,27,1,vijayvidya@gmail.com,blockchain engineer,"cryptography,node.js,javascript",jaipur
+963,Tanisha,Priyanka,9505985173,30,7,tanishapriyanka@gmail.com,iot solutions architect,"api automation and testing ,flask,intrusion detection",mumbai
+964,Sheetal,Anjana,8194226328,34,3,sheetalanjana@gmail.com,data scientist,"python, data structures,cloud",chennai
+965,Naresh,Parul,9636411553,30,7,nareshparul@gmail.com,data scientist,"python,networking and data centres,ci/cd pipelines",jaipur
+966,Aarav,Sanjay,8834670479,29,6,aaravsanjay@gmail.com,blockchain engineer,"cryptography, administrative expertise,c/javascript/python",pune
+967,Shivangi,Ananya,9382278952,29,6,shivangiananya@gmail.com,iot solutions architect,"api automation and testing ,data analysis and visualization,data mining",kochi
+968,John,Mukesh,8635774228,27,1,johnmukesh@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise, hr management knowledge and expertise",kochi
+969,Sweta,John,9881861684,31,8,swetajohn@gmail.com,devops engineer,"linux ,controls and frameworks ,ai/ml",delhi
+970,Kajal,Sunil,9102402791,35,3,kajalsunil@gmail.com,security analyst," network security control,controls and frameworks ,intrusion detection",kochi
+971,Rakesh,Subhash,6827704974,23,0,rakeshsubhash@gmail.com,machine learning engineer,"mathematics and statistics, administrative expertise,cloud",chennai
+972,Sanjay,Santosh,8425182685,23,0,sanjaysantosh@gmail.com,devops engineer,"linux ,node.js,java/python",gujarat
+973,Akshara,Raju,8873682819,24,0,akshararaju@gmail.com,cyber security,"scripting,networking and data centres,intrusion detection",kochi
+974,Manish,Rohit,6585767063,28,5,manishrohit@gmail.com,data scientist,"python,networking and data centres, hr management knowledge and expertise",pune
+975,Alka,Mohan,6586176857,24,1,alkamohan@gmail.com,devops engineer,"linux , administrative expertise,cloud",delhi
+976,Philip,Manish,6619446838,26,0,philipmanish@gmail.com,iot solutions architect,"api automation and testing ,node.js, hr management knowledge and expertise",mumbai
+977,Kayla,Manoj,8762087108,26,3,kaylamanoj@gmail.com,cyber security,"scripting,data analysis and visualization,algorithms and frameworks",jaipur
+978,Rohan,Vandana,6209462228,33,3,rohanvandana@gmail.com,ai/ml architect,"machine learning expertise,node.js, hr management knowledge and expertise",mumbai
+979,Ritu,Sangeeta,9925051430,31,3,ritusangeeta@gmail.com,data scientist,"python,reactjs,ai/ml",hyderabad
+980,Bob,Bob,9947081747,31,3,bobbob@gmail.com,iot solutions architect,"api automation and testing ,flask,java/python",bangalore
+981,Suman,Riya,9866938238,34,3,sumanriya@gmail.com,blockchain engineer,"cryptography,node.js,javascript",chennai
+982,Neetu,Sunil,8701007849,25,2,neetusunil@gmail.com,data scientist,"python,operating systems,pipeline planning",mumbai
+983,Manoj,Arvind,9784782781,28,2,manojarvind@gmail.com,data scientist,"python,data analysis and visualization,javascript",hyderabad
+984,Roshni,Sunil,9288990555,31,8,roshnisunil@gmail.com,security analyst," network security control,dbms,ci/cd pipelines",delhi
+985,Anjana,Roshni,8105960595,27,4,anjanaroshni@gmail.com,cloud architect,"operating systems,flask,pipeline planning",jaipur
+986,Ankita,Meera,6776640339,29,6,ankitameera@gmail.com,cyber security,"scripting,python,java/python",hyderabad
+987,Sunita,Suresh,8900739694,23,0,sunitasuresh@gmail.com,cloud architect,"operating systems,node.js,ci/cd pipelines",mangalore
+988,Vijay,Doris,8700485848,23,0,vijaydoris@gmail.com,security analyst," network security control, data structures,algorithms and frameworks",gujarat
+989,Sumit,Prakash,9810086226,27,4,sumitprakash@gmail.com,cyber security,"scripting, administrative expertise,java/python",bangalore
+990,Lori,Pranav,6890398271,27,4,loripranav@gmail.com,hr,"communication skills,operating systems,pipeline planning",hyderabad
+991,Lori,Aarav,9219527148,28,2,loriaarav@gmail.com,blockchain engineer,"cryptography,node.js,c/javascript/python",kochi
+992,Ankita,Manish,9268797984,35,3,ankitamanish@gmail.com,iot solutions architect,"api automation and testing ,flask,javascript",hyderabad
+993,Kirti,Sonam,6921125668,28,5,kirtisonam@gmail.com,cyber security,"scripting,networking and data centres, hr management knowledge and expertise",hyderabad
+994,Ravi,Vandana,6967475003,28,2,ravivandana@gmail.com,hr,"communication skills, administrative expertise,algorithms and frameworks",kochi
+995,Nisha,Payal,6617508525,29,6,nishapayal@gmail.com,security analyst," network security control, data structures,ai/ml",kochi
+996,Shubham,Amit,8773105972,28,5,shubhamamit@gmail.com,cyber security,"scripting,reactjs,java/python",bangalore
+997,Gaurav,Alexis,6211884751,25,2,gauravalexis@gmail.com,machine learning engineer,"mathematics and statistics,python,intrusion detection",kochi
+998,Vivek,Juhi,9414965438,25,2,vivekjuhi@gmail.com,blockchain engineer,"cryptography,node.js,ai/ml",pune
+999,Tanisha,Arvind,9729795742,31,8,tanishaarvind@gmail.com,data scientist,"python,node.js,algorithms and frameworks",jaipur
+1000,Riya,Arjun,8763920978,35,10,riyaarjun@gmail.com,data scientist,"python, administrative expertise, hr management knowledge and expertise",jaipur
