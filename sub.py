@@ -11,7 +11,11 @@ from langchain.callbacks.manager import a  # debug get observation directly
 
 # Keys for OpenAI's API
 
+<<<<<<< HEAD
 key = "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"
+=======
+key=""
+>>>>>>> 534fb3825cd512f65e34c6e59f89cd632860933a
 os.environ["OPENAI_API_KEY"] = key
 
 

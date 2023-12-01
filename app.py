@@ -6,6 +6,7 @@ cmd,fin=run_q(query)
 print(cmd)
 if type(cmd) is int:
     print(cmd)
+<<<<<<< HEAD
 elif isinstance(cmd,pd.core.series.Series):
     print(cmd)
 elif isinstance(cmd,pd.core.frame.DataFrame):
@@ -22,3 +23,7 @@ elif isinstance(cmd,pd.core.frame.DataFrame):
     print(cmd.columns)
 else:
     print(cmd)
+=======
+else:
+    print(cmd)
+>>>>>>> 534fb3825cd512f65e34c6e59f89cd632860933a
